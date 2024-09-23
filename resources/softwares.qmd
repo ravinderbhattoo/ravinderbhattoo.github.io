@@ -1,0 +1,29 @@
+---
+title: "Softwares"
+---
+
+## PeriDynamics
+
+1. __PeriDyn__ [[github]](https://github.com/ravinderbhattoo/PeriDyn) [[Docs]](https://ravinderbhattoo.github.io/PeriDyn)
+
+2. __PDMaterialPoints__ [[github]](https://github.com/ravinderbhattoo/PDMaterialPoints) [[Docs]](https://ravinderbhattoo.github.io/PDMaterialPoints)
+
+3. __PDBenchmark__ [[github]](https://github.com/ravinderbhattoo/PDBenchmark) [[Docs]](https://ravinderbhattoo.github.io/PDBenchmark)
+
+## Molecular Dynamics
+
+1. __MDSimulator.jl__ [[github]](https://github.com/ravinderbhattoo/MDSimulator)
+
+2. __MDBase.jl__ [[github]](https://github.com/ravinderbhattoo/MDBase)
+
+## Miscellaneous
+
+1. __GlassConversionPy__ [[github]](https://github.com/ravinderbhattoo/GlassConversionPy)
+
+2. __MLPipeline__ [[github]](https://github.com/ravinderbhattoo/MLPipeline)
+
+3. __MixModelsPytorch__ [[github]](https://github.com/ravinderbhattoo/MixModelsPytorch)
+
+4. __kurma__ [[github]](https://github.com/ravinderbhattoo/kurma)
+
+

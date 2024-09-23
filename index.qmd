@@ -1,0 +1,34 @@
+---
+title: "Ravinder Bhattoo"
+image: ravinder.jpeg
+about:
+  template: solana
+  image-shape: round
+  links:
+  - icon: "google scholar"
+    href: https://scholar.google.com/citations?user=lPTdGRMAAAAJ&hl=en
+  - icon: linkedin
+    href: https://www.linkedin.com/in/ravinderbhattoo
+  - icon: github
+    href: https://github.com/ravinderbhattoo/
+  - icon: orcid
+    text: <img width=20 src=https://orcid.org/assets/vectors/orcid.logo.icon.svg title=ORCID />
+    href: https://orcid.org/0000-0003-0323-9108
+  - icon: "research gate"
+    text: "<img width=20 src=https://help.researchgate.net/hc/theming_assets/01HZPWT1CS5WRP04ZJX0DM6135 title='Research Gate' />"
+    href: https://www.researchgate.net/profile/Ravinder_Bhattoo?ev=hdr_xprf
+---
+
+::: {style="text-align: justify;"}
+
+Hi! I’m Ravinder Bhattoo, assistant professor in the Department of <a href="https://ce.iiti.ac.in/">Civil Engineering</a> at the <a href="https://iiti.ac.in/">Indian Institute of Technology Indore</a>. My research focus areas are machine learning-aided structural design, multiscale material modeling, physics-informed machine learning, graph neural networks, dynamic fracture and crack propagation on ballistic impact, molecular dynamics, and peridynamics. Previously, I have worked as a postdoctoral scholar in the Department of <a href="https://engineering.wisc.edu/departments/civil-environmental-engineering/">Civil and Environmental Engineering</a> at the <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a> and as an early doc scholar in the Department of Civil Engineering at the <a href="https://home.iitd.ac.in">Indian Institute of Technology Delhi</a>. I earned my Ph.D. in Civil Engineering from the Indian Institute of Technology Delhi in January 2023, and my B. Tech. in Civil Engineering from the <a href="https://www.iitr.ac.in">Indian Institute of Technology Roorkee</a> in June 2015. My Ph.D. research focused on data-driven modeling and physics-informed machine learning for glass discovery.
+
+
+### Recent work
+
+|||
+|-|-|
+|![](https://ravinderbhattoo.github.io/PeriDyn/assets/logo.png)|PeriDyn is a numerical simulation software designed to solve peridynamics problems. It is written in the Julia programming language, and offers a high level of flexibility and speed. [link](https://ravinderbhattoo.github.io/PeriDyn/)|
+|![](https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-44622-1?as=webp)||
+
+:::

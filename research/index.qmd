@@ -1,0 +1,21 @@
+---
+title: Research
+---
+
+## Research Projects
+
+| Title | Funding source | Amount | Duration|
+|-------|---|-|-| 
+| **Data-driven Structural Health Monitoring for Railway Truss Bridges** | Department of Science & Technology | ₹ 35 L | 2024-29 |
+
+## Research
+
+### Physics-informed Machine Learning
+
+### Structural Health Monitoring
+
+### Peridynamics
+
+### Topology Optimization
+
+### Molecular Dynamics

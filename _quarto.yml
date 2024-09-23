@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ravinder Bhattoo"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: About me
+
+      - text: Research
+        menu:
+          - text: All
+            href: research/index.qmd
+
+      - href: publications/index.qmd
+        text: Publications
+
+      - href: talks/index.qmd
+        text: Talks
+
+      - href: blogs/index.qmd
+        text: Blogs
+
+      - text: Resources
+        menu:
+        - text: Softwares
+          href: resources/softwares.qmd
+            
+    right:
+      - icon: "google scholar"
+        href: https://scholar.google.com/citations?user=lPTdGRMAAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ravinderbhattoo
+      - icon: github
+        href: https://github.com/ravinderbhattoo/
+      - icon: orcid
+        text: <img width=20 src=https://orcid.org/assets/vectors/orcid.logo.icon.svg title=ORCID />
+        href: https://orcid.org/0000-0003-0323-9108
+      - icon: "research gate"
+        text: "<img width=20 src=https://help.researchgate.net/hc/theming_assets/01HZPWT1CS5WRP04ZJX0DM6135 title='Research Gate' />"
+        href: https://www.researchgate.net/profile/Ravinder_Bhattoo?ev=hdr_xprf
+
+  # announcement: 
+  #   content: "**New** - this is an announcement" 
+  #   position: below-navbar 
+
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+      - text: "Trademark"
+        href: trademark.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

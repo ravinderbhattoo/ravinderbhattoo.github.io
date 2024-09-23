@@ -1,0 +1,6 @@
+---
+title: 'Blogs'
+listing:
+  type: table
+  fields: ["title", "image", "reading-time"]
+---

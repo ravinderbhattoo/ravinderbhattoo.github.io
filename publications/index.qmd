@@ -1,0 +1,182 @@
+---
+title: "Publications"
+---
+
+- Our paper on 21 challenges in AI and ML in glass technology featured in American Ceramic Society's CTT. Read the article <a href="https://ceramics.org/ceramic-tech-today/glass-1/glass-discovery-and-design-21-challenges-in-artificial-intelligence-and-machine-learning-for-glass-science">here</a>. A reprint of the article can be found in Glass machinery plants and accessories magazine <a href="https://www.glassonline.com/pdf/magazine/GM/2021/GM_2021_3.pdf#page=74">here</a>
+
+- Our paper on glassy h-BN selected as the cover page in Advanced Theory and Simulations. Read the paper <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adts.201900174">here</a>
+
+You can also find my articles on <a href="https://scholar.google.com/citations?user=lPTdGRMAAAAJ&amp;hl=en">Google Scholar</a> profile.
+
+
+<svg height="250" width="610" xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="30" y="0" height="250" width="350" fill="rgba(0,0,0,0.1)"></rect>
+  <rect x="100" y="25" height="175" width="1" fill="gray"></rect>
+  <rect x="150" y="25" height="175" width="1" fill="gray"></rect>
+  <rect x="200" y="25" height="175" width="1" fill="gray"></rect>
+  <rect x="250" y="25" height="175" width="1" fill="gray"></rect>
+  <rect x="300" y="25" height="175" width="1" fill="gray"></rect>
+  <rect x="100" y="25" height="20" width="8" fill="green"></rect>
+  <rect x="100" y="50" height="20" width="47" fill="green"></rect>
+  <rect x="100" y="75" height="20" width="92" fill="green"></rect>
+  <rect x="100" y="100" height="20" width="120" fill="green"></rect>
+  <rect x="100" y="125" height="20" width="177" fill="green"></rect>
+  <rect x="100" y="150" height="20" width="129" fill="green"></rect>
+  <text x="300" y="220" font-size="16">200</text>
+  <text x="250" y="220" font-size="16">150</text>
+  <text x="200" y="220" font-size="16">100</text>
+  <text x="150" y="220" font-size="16">50</text>
+  <text x="100" y="220" font-size="16">0</text>
+  <text x="60" y="40" font-size="16">2019</text>
+  <text x="60" y="65" font-size="16">2020</text>
+  <text x="60" y="90" font-size="16">2021</text>
+  <text x="60" y="115" font-size="16">2022</text>
+  <text x="60" y="140" font-size="16">2023</text>
+  <text x="60" y="165" font-size="16">2024</text>
+  <text x="170" y="240" font-size="16" font-weight="400">Citations</text>
+  <text x="500" y="20" font-size="16" font-weight="700">All</text>
+  <text x="530" y="20" font-size="16" font-weight="700">Since 2019</text>
+  <text x="400" y="60" font-size="16" font-weight="400">Citations</text>
+  <text x="400" y="100" font-size="16" font-weight="400">h-index</text>
+  <text x="400" y="140" font-size="16" font-weight="400">i10-index</text>
+  <text x="500" y="60" font-size="16" font-weight="400">574</text>
+  <text x="500" y="100" font-size="16" font-weight="400">17</text>
+  <text x="500" y="140" font-size="16" font-weight="400">19</text>
+  <text x="550" y="60" font-size="16" font-weight="400">573</text>
+  <text x="550" y="100" font-size="16" font-weight="400">17</text>
+  <text x="550" y="140" font-size="16" font-weight="400">19</text>
+</svg>
+
+\
+
+## Journal Articles
+1. __Understanding the compositional control on electrical, mechanical, optical, and physical properties of inorganic glasses with interpretable machine learning__
+\
+Bhattoo, Ravinder; Bishnoi, Suresh; Zaki, Mohd; Krishnan, N. M. Anoop;
+\
+Acta Materialia, 2023. doi: 10.1016/j.actamat.2022.118439
+
+2. __Learning the dynamics of particle-based systems with Lagrangian graph neural networks__
+\
+Bhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop;
+\
+Machine Learning: Science and Technology, 2023. doi: 10.1088/2632-2153/acb03e
+
+3. __Interpreting the optical properties of oxide glasses with machine learning and Shapely additive explanations__
+\
+Zaki, Mohd; Venugopal, Vineeth; Bhattoo, Ravinder; Bishnoi, Suresh; Singh, Sourabh Kumar; Allu, Amarnath R.; Jayadeva; Krishnan, N. M. Anoop;
+\
+Journal of the American Ceramic Society, 2022. doi: 10.1111/jace.18345
+
+4. __Scalable Gaussian processes for predicting the optical, physical, thermal, and mechanical properties of inorganic glasses with large datasets__
+\
+Bishnoi, Suresh; Ravinder, R.; Grover, Hargun Singh; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Materials Advances, 2021. doi: 10.1039/D0MA00764A
+
+5. __Artificial intelligence and machine learning in glass science and technology: 21 challenges for the 21st century__
+\
+Ravinder; Venugopal, Vineeth; Bishnoi, Suresh; Singh, Sourabh; Zaki, Mohd; Grover, Hargun Singh; Bauchy, Mathieu; Agarwal, Manish; Krishnan, N. M. Anoop
+\
+International Journal of Applied Glass Science, 2021. doi: 10.1111/ijag.15881
+
+6. __Irradiation-induced brittle-to-ductile transition in α-quartz__
+\
+Ravinder, R.; Kumar, Abhishek; Kumar, Rajesh; Vangla, Prashanth; Krishnan, N. M. Anoop
+\
+Journal of the American Ceramic Society, 2020. doi: 10.1111/jace.16951
+
+7. __Glass Transition and Crystallization in Hexagonal Boron Nitride: Crucial Role of Orientational Order__
+\
+Ravinder, R.; Garg, Prateet; Krishnan, N. M. Anoop
+\
+Advanced Theory and Simulations, 2020. doi: 10.1002/adts.201900174
+
+8. __Deep learning aided rational design of oxide glasses__
+\
+Ravinder, R.; Sridhara, Karthikeya H.; Bishnoi, Suresh; Grover, Hargun Singh; Bauchy, Mathieu; Jayadeva; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Materials Horizons, 2020. doi: 10.1039/D0MH00162G
+
+9. __Cooling rate effects on the structure of 45S5 bioglass: Insights from experiments and simulations__
+\
+Bhaskar, Pratik; Kumar, Rajesh; Maurya, Yashasvi; Ravinder, R.; Allu, Amarnath R.; Das, Sumanta; Gosvami, Nitya Nand; Youngman, Randall E.; Bødker, Mikkel S.; Mascaraque, Nerea; Smedskjaer, Morten M.; Bauchy, Mathieu; Krishnan, N. M. Anoop
+\
+Journal of Non-Crystalline Solids, 2020. doi: 10.1016/j.jnoncrysol.2020.119952
+
+10. __An adaptive, interacting, cluster-based model for predicting the transmission dynamics of COVID-19__
+\
+Ravinder, R.; Singh, Sourabh; Bishnoi, Suresh; Jan, Amreen; Sharma, Amit; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Heliyon, 2020. doi: 10.1016/j.heliyon.2020.e05722
+
+11. __A Peridynamics-Based Micromechanical Modeling Approach for Random Heterogeneous Structural Materials__
+\
+Nayak, Sumeru; Ravinder, R.; Krishnan, N. M. Anoop; Das, Sumanta
+\
+Materials, 2020. doi: 10.3390/ma13061298
+
+12. __Redox Sensitive Self-Assembling Dipeptide for Sustained Intracellular Drug Delivery__
+\
+Dhawan, Sameer; Ghosh, Sukanya; Ravinder, R.; Bais, Sachendra S.; Basak, Soumen; Krishnan, N. M. Anoop; Agarwal, Manish; Banerjee, Manidipa; Haridas, V.
+\
+Bioconjugate Chemistry, 2019. doi: 10.1021/acs.bioconjchem.9b00532
+
+13. __Predicting Young’s modulus of oxide glasses with sparse datasets using machine learning__
+\
+Bishnoi, Suresh; Singh, Sourabh; Ravinder, R.; Bauchy, Mathieu; Gosvami, Nitya Nand; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Journal of Non-Crystalline Solids, 2019. doi: 10.1016/j.jnoncrysol.2019.119643
+
+14. __Glass Fracture Upon Ballistic Impact: New Insights From Peridynamics Simulations__
+\
+Rivera, Jared; Berjikian, Jonathan; Ravinder, R.; Kodamana, Hariprasad; Das, Sumanta; Bhatnagar, Naresh; Bauchy, Mathieu; Krishnan, N. M. Anoop
+\
+Frontiers in Materials, 2019. doi: 10.3389/fmats.2019.00239
+
+15. __Evidence of a two-dimensional glass transition in graphene: Insights from molecular simulations__
+\
+Ravinder, R.; Kumar, Rajesh; Agarwal, Manish; Krishnan, N. M. Anoop
+\
+Scientific Reports, 2019. doi: 10.1038/s41598-019-41231-z
+
+16. __Density–stiffness scaling in minerals upon disordering: Irradiation vs. vitrification__
+\
+Krishnan, N. M. Anoop; Ravinder, R.; Kumar, Rajesh; Le Pape, Yann; Sant, Gaurav; Bauchy, Mathieu
+\
+Acta Materialia, 2019. doi: 10.1016/j.actamat.2019.01.015
+
+## Preprints
+
+1. __Lagrangian Neural Network with Differentiable Symmetries and Relational Inductive Bias__
+\
+Bhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+Preprint, 2021. url: http://arxiv.org/abs/2110.03266
+
+## Conference Papers
+1. __Learning the Dynamics of Physical Systems with Hamiltonian Graph Neural Networks__
+\
+Bishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+ICLR 2023 Workshop on Physics for Machine Learning, 2023. url: https://openreview.net/forum?id=Ugl-B_at5n
+
+2. __Enhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems__
+\
+Bishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+The Eleventh International Conference on Learning Representations, 2023. url: https://openreview.net/forum?id=ATLEl_izD87
+
+3. __Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems__
+\
+Thangamuthu, Abishek; Kumar, Gunjan; Bishnoi, Suresh; Bhattoo, Ravinder; Krishnan, N. M. Anoop; Ranu, Sayan
+\
+Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2022. url: https://openreview.net/forum?id=tXEe-Ew_ikh
+
+4. __Learning Articulated Rigid Body Dynamics with Lagrangian Graph Neural Network__
+\
+Bhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+Advances in Neural Information Processing Systems, 2022. url: https://openreview.net/forum?id=nOdfIbo3A-F
+

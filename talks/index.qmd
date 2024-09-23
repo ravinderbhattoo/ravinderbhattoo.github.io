@@ -1,0 +1,123 @@
+---
+title: "Conferences and Talks"
+---
+
+## Talks
+
+1. __Lagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+XXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022
+\
+Cancun, Mexico
+
+2. __Lagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+XXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022
+\
+Cancun, Mexico
+
+3. __Understanding the Compositional Control on Electrical, Mechanical, Optical, And Physical Properties of Inorganic Glasses with Interpretable Machine Learning__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+XXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022
+\
+Cancun, Mexico
+
+4. __PeriDyn: A Peridynamics Package Written in Julia Programming Language__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+11th European Solid Mechanics Conference, July, 2022
+\
+NUI, Galway, Ireland
+
+5. __Learning Quantum-accuracy Interatomic Potential for Silica Using Lagrangian Graph Neural Networks__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+2022 Glass and Optical Materials Division Annual Meeting, May, 2022
+\
+Hyatt Regency Baltimore, Baltimore, MD, United States
+
+6. __Learning interaction laws in atomistic system using Lagrangian Graph Neural Networks__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+2022 Glass and Optical Materials Division Annual Meeting, May, 2022
+\
+Hyatt Regency Baltimore, Baltimore, MD, United States
+
+7. __Decoding the Genome of Inorganic Glasses using Interpretable Machine Learning__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+14th Pacific Rim Conference on Ceramic and Glass Technology and GOMD 2021 Division Meeting, December, 2021
+\
+Vancouver, British Columbia, Canada (Virtual)
+
+8. __Molecular Dynamics Simulation Using Graph Neural Networks__
+\
+Ravinder Bhattoo*, N. M. Anoop Krishnan
+\
+MRS Fall Meeting 2021, December, 2021
+\
+Boston, Massachusetts, USA (Virtual)
+
+9. __Understanding the Composition-property Relationship of Glasses Using Interpretable Machine Learning__
+\
+Ravinder Bhattoo*, Suresh Bishnoi, M. Zaki, N. M. Anoop Krishnan
+\
+Materials Science and Technology (MS&T) 2021, October, 2021
+\
+Columbus, Ohio, USA (Virtual)
+
+10. __Machine learning to predict the elastic properties of glasses__
+\
+Sourabh Singh, Suresh Bishnoi, R. Ravinder*, Hariprasad Kodamana, N. M. Anoop Krishnan
+\
+Material Science and Technology (MS&T) 2019, October, 2019
+\
+Oregon Convocation Center, Portland, USA
+
+## Workshops
+
+1. __Introduction to Machine Learning Tools__
+\
+Artificial Intelligence Concepts and Multidisciplinary Applications in Modern Biology, September, 2019
+\
+International Center for Genetic Engineering and Biotechnology, New Delhi, India
+
+2. __Introduction to Machine Learning__
+\
+Machine Learning For Engineering Applications (TEQIP Course), June, 2019
+\
+Indian Institute of Technology Delhi, New Delhi, India
+
+3. __Molecular dynamics workshop 2__
+\
+Advanced Simulation Methods: DFT, MD and Beyond, March, 2019
+\
+Indian Institute of Technology Delhi, New Delhi, India
+
+## Posters
+
+1. __Designing Functional Glasses using Machine Learning__
+\
+R. Ravinder*, Suresh Bishnoi, Sourabh Kumar Singh, Hargun Singh, Hariprasad Kodamana, N M Anoop Krishnan
+\
+IIT Delhi Industry Day 2019, September, 2019
+\
+Indian Institute of Technology Delhi, New Delhi, India
+
+2. __Two-dimensional glass transition in graphene: Insights from molecular simulations__
+\
+R. Ravinder*, Rajesh Kumar, Manish Agarwal, N. M. Anoop Krishnan
+\
+Advanced Simulation Methods: DFT, MD and Beyond, March, 2019
+\
+Indian Institute of Technology Delhi, New Delhi, India
