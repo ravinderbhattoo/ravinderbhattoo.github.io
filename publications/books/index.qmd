@@ -1,0 +1,7 @@
+
+::: {.card-animation}
+
+{{< include /publications/books/mlmd.qmd >}}
+
+:::
+

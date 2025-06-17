@@ -1,0 +1,78 @@
+- Our paper on 21 challenges in AI and ML in glass technology featured in American Ceramic Society's CTT. Read the article <a href="https://ceramics.org/ceramic-tech-today/glass-1/glass-discovery-and-design-21-challenges-in-artificial-intelligence-and-machine-learning-for-glass-science">here</a>. A reprint of the article can be found in Glass machinery plants and accessories magazine <a href="https://www.glassonline.com/pdf/magazine/GM/2021/GM_2021_3.pdf#page=74">here</a>
+
+- Our paper on glassy h-BN selected as the cover page in Advanced Theory and Simulations. Read the paper <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adts.201900174">here</a>
+
+You can also find my articles on <a href="https://scholar.google.com/citations?user=lPTdGRMAAAAJ&amp;hl=en">Google Scholar</a> profile.
+
+
+::::{.columns }
+
+
+:::{.column width="60%"}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+<canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+<script>
+const xValues = [2019, 2020, 2021, 2022, 2023, 2024, 2025];
+const yValues = [8, 48, 94, 123, 183, 196, 47];
+const bcolor = "lightgreen"
+const barColors = [bcolor, bcolor, bcolor, bcolor, bcolor, bcolor, bcolor];
+
+new Chart("myChart", {
+  type: "bar",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    legend: {display: false},
+    scales: {
+      yAxes: [{
+        ticks: {
+          beginAtZero: true
+        }
+      }]
+    },
+
+    title: {
+      display: true,
+      text: "Citations"
+    }
+  }
+});
+</script>
+:::
+
+:::{.column style="width:30%;margin-left:2em"}
+
+<table class="citations">
+ <tr>
+   <th></th>
+   <th>All</th>
+   <th>Since 2020</th>
+ </tr>
+ <tr>
+   <td style="text-align:left">Citations</td>
+   <td>701</td>
+   <td>693</td>
+ </tr>
+ <tr>
+   <td style="text-align:left">h-index</td>
+   <td>17</td>
+   <td>17</td>
+ </tr>
+ <tr>
+   <td style="text-align:left">i10-index</td>
+   <td>19</td>
+   <td>19</td>
+ </tr>
+</table>
+:::
+
+::::
+
+<br>

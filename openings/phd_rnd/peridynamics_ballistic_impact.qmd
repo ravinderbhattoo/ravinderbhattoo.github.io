@@ -1,0 +1,18 @@
+---
+title: "PhD Position in Peridynamics Material Models for Ballistic Impact Simulations"
+categories: ["PhD Position", "Open"]
+date: 2025-04-20
+---
+
+
+### Description
+
+Please visit the [research](/research/peridynamics) page and get in touch for further discussion regarding the project.
+
+
+<hr>
+
+### Contact Person
+
+{{< include /team/faculty/ravinder/_card.qmd >}}
+

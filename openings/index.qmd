@@ -1,0 +1,56 @@
+---
+title: "<span class='sign-board' style='font-size:3rem'>Open<span class='flicker sign-board' style='font-size:3rem'>ings</span></span>"
+listing:
+  - id: "phd-listings"
+    contents: phd_rnd
+    type: grid
+    grid-columns: 1
+    fields: ["date", "categories", "title", "description"]
+    categories: true
+    sort: "date"
+    grid-item-border: true
+  - id: "project-listings"
+    contents: intern_projects
+    type: grid
+    grid-columns: 1
+    fields: ["date", "categories", "title", "description"]
+    categories: true
+    sort: "date"
+    grid-item-border: true
+---
+
+<div style="border:solid 1px rgb(201, 201, 201); padding:10px">
+
+<p>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample-phd" aria-expanded="false" aria-controls="collapseExample-phd">
+    PhD and Project Positions
+  </button>
+</p>
+
+<div class="collapse show" id="collapseExample-phd">
+
+::: {#phd-listings}
+:::
+
+</div>
+</div>
+
+
+<br>
+
+<div style="border:solid 1px rgb(201, 201, 201); padding:10px">
+
+<p>
+  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample-pro" aria-expanded="false" aria-controls="collapseExample-pro">
+    Projects and Internship
+  </button>
+</p>
+
+<div class="collapse show" id="collapseExample-pro">
+
+::: {#project-listings}
+:::
+
+</div>
+</div>
+

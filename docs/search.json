@@ -1,66 +1,164 @@
 [
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Conferences and Talks",
+    "objectID": "team/mtech/ravi_sharma/index.html",
+    "href": "team/mtech/ravi_sharma/index.html",
+    "title": "Ravi Sharma",
+    "section": "",
+    "text": "Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India   Email: @ iiti • ac • in \n\n\n    \n\nHi! I’m Ravi Sharma, master’s student in the Department of Civil Engineering at the Indian Institute of Technology Indore.\n\n\n Back to top"
+  },
+  {
+    "objectID": "team/index.html",
+    "href": "team/index.html",
+    "title": "Team",
+    "section": "",
+    "text": "Faculty\n\n\n\n\n\n\n\n\n\n\nDr. Ravinder Bhattoo\n\n\nAssistant Professor\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nMasters Students\n\n\n\n\n\n\n\n\n\n\nHarshita Nath\n\n\nMaster’s Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nRavi Sharma\n\n\nMaster’s Student\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "resources/softwares.html",
+    "href": "resources/softwares.html",
+    "title": "Softwares",
+    "section": "",
+    "text": "PeriDyn [github] [Docs]\nPDMaterialPoints [github] [Docs]\nPDBenchmark [github] [Docs]"
+  },
+  {
+    "objectID": "resources/softwares.html#peridynamics",
+    "href": "resources/softwares.html#peridynamics",
+    "title": "Softwares",
+    "section": "",
+    "text": "PeriDyn [github] [Docs]\nPDMaterialPoints [github] [Docs]\nPDBenchmark [github] [Docs]"
+  },
+  {
+    "objectID": "resources/softwares.html#molecular-dynamics",
+    "href": "resources/softwares.html#molecular-dynamics",
+    "title": "Softwares",
+    "section": "Molecular Dynamics",
+    "text": "Molecular Dynamics\n\nMDSimulator.jl [github]\nMDBase.jl [github]"
+  },
+  {
+    "objectID": "resources/softwares.html#miscellaneous",
+    "href": "resources/softwares.html#miscellaneous",
+    "title": "Softwares",
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\n\nGlassConversionPy [github]\nMLPipeline [github]\nMixModelsPytorch [github]\nkurma [github]"
+  },
+  {
+    "objectID": "research/shm/index.html",
+    "href": "research/shm/index.html",
+    "title": "Structural Health Monitoring",
+    "section": "",
+    "text": "Structural Health Monitoring (SHM) is an essential aspect of infrastructure management. It involves the continuous monitoring of structures to detect any potential issues before they lead to accidents or failures. This ensures safety, reliability, and longevity of the infrastructure.\n\n\nHealth Monitoring of Railway Truss Bridges\nThe research aims to modernize the evaluation of railway bridge conditions within India’s extensive network. The dynamic landscape includes bridges over a century old, alongside modern rail demands characterized by increased axle loads and speeds. The Committee emphasizes modern tech integration for revolutionary inspections, paving the way for automated real-time health monitoring, enhancing safety and maintenance. The proposal aims to leverage physics-informed machine learning and proven data-driven approaches, as demonstrated in related tasks. The overarching objective is to establish a precise framework for structural health monitoring, effectively encompassing safety, maintenance, and technological progress\nA damaged physical model (solid line) and a trained machine learning model (dashed line) of a truss structure.\n\n\n\n\n  \n\n\n\nFigure 1\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "research/peridynamics/index.html",
+    "href": "research/peridynamics/index.html",
+    "title": "Peridynamics",
+    "section": "",
+    "text": "Peridynamics is a nonlocal continuum theory that can describe material failure and fracture without using the traditional concepts of stress and strain. Instead, it models a material as a collection of particles that interact through pairwise forces. These forces depend on the separation between particles, and can be used to simulate a wide range of materials, including brittle and ductile solids, fluids, and granular materials.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "research/md/index.html",
+    "href": "research/md/index.html",
+    "title": "Molecular Dynamics",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "research/gdes/index.html",
+    "href": "research/gdes/index.html",
+    "title": "Generative Design",
+    "section": "",
+    "text": "The Generative Design methodology is a novel approach that leverages generative machine learning techniques to automate the process of designing complex structures. It methodology directly addresses the limitations of traditional design approaches by automating the exploration of a vast design space, optimizing multiple parameters simultaneously. By combining the power of computational tools, real-time analysis, distributed computing and artificial intelligence, this methodology can lead to the development of more efficient, innovative, and high-performance designs in fields of aerospace, structural engineering, and materials design.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/conferences/list.html",
+    "href": "publications/conferences/list.html",
+    "title": "HOME",
     "section": "",
     "text": "Lagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nLagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nUnderstanding the Compositional Control on Electrical, Mechanical, Optical, And Physical Properties of Inorganic Glasses with Interpretable Machine Learning\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nPeriDyn: A Peridynamics Package Written in Julia Programming Language\nRavinder Bhattoo*, N. M. Anoop Krishnan\n11th European Solid Mechanics Conference, July, 2022\nNUI, Galway, Ireland\nLearning Quantum-accuracy Interatomic Potential for Silica Using Lagrangian Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\n2022 Glass and Optical Materials Division Annual Meeting, May, 2022\nHyatt Regency Baltimore, Baltimore, MD, United States\nLearning interaction laws in atomistic system using Lagrangian Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\n2022 Glass and Optical Materials Division Annual Meeting, May, 2022\nHyatt Regency Baltimore, Baltimore, MD, United States\nDecoding the Genome of Inorganic Glasses using Interpretable Machine Learning\nRavinder Bhattoo*, N. M. Anoop Krishnan\n14th Pacific Rim Conference on Ceramic and Glass Technology and GOMD 2021 Division Meeting, December, 2021\nVancouver, British Columbia, Canada (Virtual)\nMolecular Dynamics Simulation Using Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\nMRS Fall Meeting 2021, December, 2021\nBoston, Massachusetts, USA (Virtual)\nUnderstanding the Composition-property Relationship of Glasses Using Interpretable Machine Learning\nRavinder Bhattoo*, Suresh Bishnoi, M. Zaki, N. M. Anoop Krishnan\nMaterials Science and Technology (MS&T) 2021, October, 2021\nColumbus, Ohio, USA (Virtual)\nMachine learning to predict the elastic properties of glasses\nSourabh Singh, Suresh Bishnoi, R. Ravinder*, Hariprasad Kodamana, N. M. Anoop Krishnan\nMaterial Science and Technology (MS&T) 2019, October, 2019\nOregon Convocation Center, Portland, USA"
   },
   {
-    "objectID": "talks/index.html#talks",
-    "href": "talks/index.html#talks",
-    "title": "Conferences and Talks",
-    "section": "",
-    "text": "Lagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nLagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nUnderstanding the Compositional Control on Electrical, Mechanical, Optical, And Physical Properties of Inorganic Glasses with Interpretable Machine Learning\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nPeriDyn: A Peridynamics Package Written in Julia Programming Language\nRavinder Bhattoo*, N. M. Anoop Krishnan\n11th European Solid Mechanics Conference, July, 2022\nNUI, Galway, Ireland\nLearning Quantum-accuracy Interatomic Potential for Silica Using Lagrangian Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\n2022 Glass and Optical Materials Division Annual Meeting, May, 2022\nHyatt Regency Baltimore, Baltimore, MD, United States\nLearning interaction laws in atomistic system using Lagrangian Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\n2022 Glass and Optical Materials Division Annual Meeting, May, 2022\nHyatt Regency Baltimore, Baltimore, MD, United States\nDecoding the Genome of Inorganic Glasses using Interpretable Machine Learning\nRavinder Bhattoo*, N. M. Anoop Krishnan\n14th Pacific Rim Conference on Ceramic and Glass Technology and GOMD 2021 Division Meeting, December, 2021\nVancouver, British Columbia, Canada (Virtual)\nMolecular Dynamics Simulation Using Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\nMRS Fall Meeting 2021, December, 2021\nBoston, Massachusetts, USA (Virtual)\nUnderstanding the Composition-property Relationship of Glasses Using Interpretable Machine Learning\nRavinder Bhattoo*, Suresh Bishnoi, M. Zaki, N. M. Anoop Krishnan\nMaterials Science and Technology (MS&T) 2021, October, 2021\nColumbus, Ohio, USA (Virtual)\nMachine learning to predict the elastic properties of glasses\nSourabh Singh, Suresh Bishnoi, R. Ravinder*, Hariprasad Kodamana, N. M. Anoop Krishnan\nMaterial Science and Technology (MS&T) 2019, October, 2019\nOregon Convocation Center, Portland, USA"
-  },
-  {
-    "objectID": "talks/index.html#workshops",
-    "href": "talks/index.html#workshops",
-    "title": "Conferences and Talks",
+    "objectID": "publications/conferences/list.html#workshops",
+    "href": "publications/conferences/list.html#workshops",
+    "title": "HOME",
     "section": "Workshops",
     "text": "Workshops\n\nIntroduction to Machine Learning Tools\nArtificial Intelligence Concepts and Multidisciplinary Applications in Modern Biology, September, 2019\nInternational Center for Genetic Engineering and Biotechnology, New Delhi, India\nIntroduction to Machine Learning\nMachine Learning For Engineering Applications (TEQIP Course), June, 2019\nIndian Institute of Technology Delhi, New Delhi, India\nMolecular dynamics workshop 2\nAdvanced Simulation Methods: DFT, MD and Beyond, March, 2019\nIndian Institute of Technology Delhi, New Delhi, India"
   },
   {
-    "objectID": "talks/index.html#posters",
-    "href": "talks/index.html#posters",
-    "title": "Conferences and Talks",
+    "objectID": "publications/conferences/list.html#posters",
+    "href": "publications/conferences/list.html#posters",
+    "title": "HOME",
     "section": "Posters",
     "text": "Posters\n\nDesigning Functional Glasses using Machine Learning\nR. Ravinder*, Suresh Bishnoi, Sourabh Kumar Singh, Hargun Singh, Hariprasad Kodamana, N M Anoop Krishnan\nIIT Delhi Industry Day 2019, September, 2019\nIndian Institute of Technology Delhi, New Delhi, India\nTwo-dimensional glass transition in graphene: Insights from molecular simulations\nR. Ravinder*, Rajesh Kumar, Manish Agarwal, N. M. Anoop Krishnan\nAdvanced Simulation Methods: DFT, MD and Beyond, March, 2019\nIndian Institute of Technology Delhi, New Delhi, India"
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "publications/books/index.html",
+    "href": "publications/books/index.html",
+    "title": "HOME",
     "section": "",
-    "text": "Title\nFunding source\nAmount\nDuration\n\n\n\n\nData-driven Structural Health Monitoring for Railway Truss Bridges\nDepartment of Science & Technology\n₹ 35 L\n2024-29"
+    "text": "Machine Learning for Material Discovery Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple regression to advanced machine learning and optimization methods for applications in materials modeling and discovery. The book explains complex mathematical concepts in a lucid manner to ensure that readers from different materials domains are able to use these techniques successfully. A unique feature of this book is its hands-on aspect—each method presented herein is accompanied by a code that implements the method in open-source platforms such as Python. This book is thus aimed at graduate students, researchers, and engineers to enable the use of data-driven methods for understanding and accelerating the discovery of novel materials. link\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "research/index.html#research-projects",
-    "href": "research/index.html#research-projects",
-    "title": "Research",
+    "objectID": "publications/articles/list.html",
+    "href": "publications/articles/list.html",
+    "title": "HOME",
     "section": "",
-    "text": "Title\nFunding source\nAmount\nDuration\n\n\n\n\nData-driven Structural Health Monitoring for Railway Truss Bridges\nDepartment of Science & Technology\n₹ 35 L\n2024-29"
+    "text": "Understanding the compositional control on electrical, mechanical, optical, and physical properties of inorganic glasses with interpretable machine learning\nBhattoo, Ravinder; Bishnoi, Suresh; Zaki, Mohd; Krishnan, N. M. Anoop;\nActa Materialia, 2023. doi: 10.1016/j.actamat.2022.118439\nLearning the dynamics of particle-based systems with Lagrangian graph neural networks\nBhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop;\nMachine Learning: Science and Technology, 2023. doi: 10.1088/2632-2153/acb03e\nInterpreting the optical properties of oxide glasses with machine learning and Shapely additive explanations\nZaki, Mohd; Venugopal, Vineeth; Bhattoo, Ravinder; Bishnoi, Suresh; Singh, Sourabh Kumar; Allu, Amarnath R.; Jayadeva; Krishnan, N. M. Anoop;\nJournal of the American Ceramic Society, 2022. doi: 10.1111/jace.18345\nScalable Gaussian processes for predicting the optical, physical, thermal, and mechanical properties of inorganic glasses with large datasets\nBishnoi, Suresh; Ravinder, R.; Grover, Hargun Singh; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nMaterials Advances, 2021. doi: 10.1039/D0MA00764A\nArtificial intelligence and machine learning in glass science and technology: 21 challenges for the 21st century\nRavinder; Venugopal, Vineeth; Bishnoi, Suresh; Singh, Sourabh; Zaki, Mohd; Grover, Hargun Singh; Bauchy, Mathieu; Agarwal, Manish; Krishnan, N. M. Anoop\nInternational Journal of Applied Glass Science, 2021. doi: 10.1111/ijag.15881\nIrradiation-induced brittle-to-ductile transition in α-quartz\nRavinder, R.; Kumar, Abhishek; Kumar, Rajesh; Vangla, Prashanth; Krishnan, N. M. Anoop\nJournal of the American Ceramic Society, 2020. doi: 10.1111/jace.16951\nGlass Transition and Crystallization in Hexagonal Boron Nitride: Crucial Role of Orientational Order\nRavinder, R.; Garg, Prateet; Krishnan, N. M. Anoop\nAdvanced Theory and Simulations, 2020. doi: 10.1002/adts.201900174\nDeep learning aided rational design of oxide glasses\nRavinder, R.; Sridhara, Karthikeya H.; Bishnoi, Suresh; Grover, Hargun Singh; Bauchy, Mathieu; Jayadeva; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nMaterials Horizons, 2020. doi: 10.1039/D0MH00162G\nCooling rate effects on the structure of 45S5 bioglass: Insights from experiments and simulations\nBhaskar, Pratik; Kumar, Rajesh; Maurya, Yashasvi; Ravinder, R.; Allu, Amarnath R.; Das, Sumanta; Gosvami, Nitya Nand; Youngman, Randall E.; Bødker, Mikkel S.; Mascaraque, Nerea; Smedskjaer, Morten M.; Bauchy, Mathieu; Krishnan, N. M. Anoop\nJournal of Non-Crystalline Solids, 2020. doi: 10.1016/j.jnoncrysol.2020.119952\nAn adaptive, interacting, cluster-based model for predicting the transmission dynamics of COVID-19\nRavinder, R.; Singh, Sourabh; Bishnoi, Suresh; Jan, Amreen; Sharma, Amit; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nHeliyon, 2020. doi: 10.1016/j.heliyon.2020.e05722\nA Peridynamics-Based Micromechanical Modeling Approach for Random Heterogeneous Structural Materials\nNayak, Sumeru; Ravinder, R.; Krishnan, N. M. Anoop; Das, Sumanta\nMaterials, 2020. doi: 10.3390/ma13061298\nRedox Sensitive Self-Assembling Dipeptide for Sustained Intracellular Drug Delivery\nDhawan, Sameer; Ghosh, Sukanya; Ravinder, R.; Bais, Sachendra S.; Basak, Soumen; Krishnan, N. M. Anoop; Agarwal, Manish; Banerjee, Manidipa; Haridas, V.\nBioconjugate Chemistry, 2019. doi: 10.1021/acs.bioconjchem.9b00532\nPredicting Young’s modulus of oxide glasses with sparse datasets using machine learning\nBishnoi, Suresh; Singh, Sourabh; Ravinder, R.; Bauchy, Mathieu; Gosvami, Nitya Nand; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nJournal of Non-Crystalline Solids, 2019. doi: 10.1016/j.jnoncrysol.2019.119643\nGlass Fracture Upon Ballistic Impact: New Insights From Peridynamics Simulations\nRivera, Jared; Berjikian, Jonathan; Ravinder, R.; Kodamana, Hariprasad; Das, Sumanta; Bhatnagar, Naresh; Bauchy, Mathieu; Krishnan, N. M. Anoop\nFrontiers in Materials, 2019. doi: 10.3389/fmats.2019.00239\nEvidence of a two-dimensional glass transition in graphene: Insights from molecular simulations\nRavinder, R.; Kumar, Rajesh; Agarwal, Manish; Krishnan, N. M. Anoop\nScientific Reports, 2019. doi: 10.1038/s41598-019-41231-z\nDensity–stiffness scaling in minerals upon disordering: Irradiation vs. vitrification\nKrishnan, N. M. Anoop; Ravinder, R.; Kumar, Rajesh; Le Pape, Yann; Sant, Gaurav; Bauchy, Mathieu\nActa Materialia, 2019. doi: 10.1016/j.actamat.2019.01.015"
   },
   {
-    "objectID": "research/index.html#research",
-    "href": "research/index.html#research",
-    "title": "Research",
-    "section": "Research",
-    "text": "Research\n\nPhysics-informed Machine Learning\n\n\nStructural Health Monitoring\n\n\nPeridynamics\n\n\nTopology Optimization\n\n\nMolecular Dynamics"
+    "objectID": "publications/articles/list.html#journal-articles",
+    "href": "publications/articles/list.html#journal-articles",
+    "title": "HOME",
+    "section": "",
+    "text": "Understanding the compositional control on electrical, mechanical, optical, and physical properties of inorganic glasses with interpretable machine learning\nBhattoo, Ravinder; Bishnoi, Suresh; Zaki, Mohd; Krishnan, N. M. Anoop;\nActa Materialia, 2023. doi: 10.1016/j.actamat.2022.118439\nLearning the dynamics of particle-based systems with Lagrangian graph neural networks\nBhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop;\nMachine Learning: Science and Technology, 2023. doi: 10.1088/2632-2153/acb03e\nInterpreting the optical properties of oxide glasses with machine learning and Shapely additive explanations\nZaki, Mohd; Venugopal, Vineeth; Bhattoo, Ravinder; Bishnoi, Suresh; Singh, Sourabh Kumar; Allu, Amarnath R.; Jayadeva; Krishnan, N. M. Anoop;\nJournal of the American Ceramic Society, 2022. doi: 10.1111/jace.18345\nScalable Gaussian processes for predicting the optical, physical, thermal, and mechanical properties of inorganic glasses with large datasets\nBishnoi, Suresh; Ravinder, R.; Grover, Hargun Singh; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nMaterials Advances, 2021. doi: 10.1039/D0MA00764A\nArtificial intelligence and machine learning in glass science and technology: 21 challenges for the 21st century\nRavinder; Venugopal, Vineeth; Bishnoi, Suresh; Singh, Sourabh; Zaki, Mohd; Grover, Hargun Singh; Bauchy, Mathieu; Agarwal, Manish; Krishnan, N. M. Anoop\nInternational Journal of Applied Glass Science, 2021. doi: 10.1111/ijag.15881\nIrradiation-induced brittle-to-ductile transition in α-quartz\nRavinder, R.; Kumar, Abhishek; Kumar, Rajesh; Vangla, Prashanth; Krishnan, N. M. Anoop\nJournal of the American Ceramic Society, 2020. doi: 10.1111/jace.16951\nGlass Transition and Crystallization in Hexagonal Boron Nitride: Crucial Role of Orientational Order\nRavinder, R.; Garg, Prateet; Krishnan, N. M. Anoop\nAdvanced Theory and Simulations, 2020. doi: 10.1002/adts.201900174\nDeep learning aided rational design of oxide glasses\nRavinder, R.; Sridhara, Karthikeya H.; Bishnoi, Suresh; Grover, Hargun Singh; Bauchy, Mathieu; Jayadeva; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nMaterials Horizons, 2020. doi: 10.1039/D0MH00162G\nCooling rate effects on the structure of 45S5 bioglass: Insights from experiments and simulations\nBhaskar, Pratik; Kumar, Rajesh; Maurya, Yashasvi; Ravinder, R.; Allu, Amarnath R.; Das, Sumanta; Gosvami, Nitya Nand; Youngman, Randall E.; Bødker, Mikkel S.; Mascaraque, Nerea; Smedskjaer, Morten M.; Bauchy, Mathieu; Krishnan, N. M. Anoop\nJournal of Non-Crystalline Solids, 2020. doi: 10.1016/j.jnoncrysol.2020.119952\nAn adaptive, interacting, cluster-based model for predicting the transmission dynamics of COVID-19\nRavinder, R.; Singh, Sourabh; Bishnoi, Suresh; Jan, Amreen; Sharma, Amit; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nHeliyon, 2020. doi: 10.1016/j.heliyon.2020.e05722\nA Peridynamics-Based Micromechanical Modeling Approach for Random Heterogeneous Structural Materials\nNayak, Sumeru; Ravinder, R.; Krishnan, N. M. Anoop; Das, Sumanta\nMaterials, 2020. doi: 10.3390/ma13061298\nRedox Sensitive Self-Assembling Dipeptide for Sustained Intracellular Drug Delivery\nDhawan, Sameer; Ghosh, Sukanya; Ravinder, R.; Bais, Sachendra S.; Basak, Soumen; Krishnan, N. M. Anoop; Agarwal, Manish; Banerjee, Manidipa; Haridas, V.\nBioconjugate Chemistry, 2019. doi: 10.1021/acs.bioconjchem.9b00532\nPredicting Young’s modulus of oxide glasses with sparse datasets using machine learning\nBishnoi, Suresh; Singh, Sourabh; Ravinder, R.; Bauchy, Mathieu; Gosvami, Nitya Nand; Kodamana, Hariprasad; Krishnan, N. M. Anoop\nJournal of Non-Crystalline Solids, 2019. doi: 10.1016/j.jnoncrysol.2019.119643\nGlass Fracture Upon Ballistic Impact: New Insights From Peridynamics Simulations\nRivera, Jared; Berjikian, Jonathan; Ravinder, R.; Kodamana, Hariprasad; Das, Sumanta; Bhatnagar, Naresh; Bauchy, Mathieu; Krishnan, N. M. Anoop\nFrontiers in Materials, 2019. doi: 10.3389/fmats.2019.00239\nEvidence of a two-dimensional glass transition in graphene: Insights from molecular simulations\nRavinder, R.; Kumar, Rajesh; Agarwal, Manish; Krishnan, N. M. Anoop\nScientific Reports, 2019. doi: 10.1038/s41598-019-41231-z\nDensity–stiffness scaling in minerals upon disordering: Irradiation vs. vitrification\nKrishnan, N. M. Anoop; Ravinder, R.; Kumar, Rajesh; Le Pape, Yann; Sant, Gaurav; Bauchy, Mathieu\nActa Materialia, 2019. doi: 10.1016/j.actamat.2019.01.015"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ravinder Bhattoo",
+    "objectID": "publications/articles/list.html#preprints",
+    "href": "publications/articles/list.html#preprints",
+    "title": "HOME",
+    "section": "Preprints",
+    "text": "Preprints\n\nLagrangian Neural Network with Differentiable Symmetries and Relational Inductive Bias\nBhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop\nPreprint, 2021. url: http://arxiv.org/abs/2110.03266"
+  },
+  {
+    "objectID": "publications/articles/list.html#conference-papers",
+    "href": "publications/articles/list.html#conference-papers",
+    "title": "HOME",
+    "section": "Conference Papers",
+    "text": "Conference Papers\n\nLearning the Dynamics of Physical Systems with Hamiltonian Graph Neural Networks\nBishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop\nICLR 2023 Workshop on Physics for Machine Learning, 2023. url: https://openreview.net/forum?id=Ugl-B_at5n\nEnhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems\nBishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop\nThe Eleventh International Conference on Learning Representations, 2023. url: https://openreview.net/forum?id=ATLEl_izD87\nUnravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems\nThangamuthu, Abishek; Kumar, Gunjan; Bishnoi, Suresh; Bhattoo, Ravinder; Krishnan, N. M. Anoop; Ranu, Sayan\nThirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2022. url: https://openreview.net/forum?id=tXEe-Ew_ikh\nLearning Articulated Rigid Body Dynamics with Lagrangian Graph Neural Network\nBhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop\nAdvances in Neural Information Processing Systems, 2022. url: https://openreview.net/forum?id=nOdfIbo3A-F"
+  },
+  {
+    "objectID": "openings/phd_rnd/peridynamics_ballistic_impact.html",
+    "href": "openings/phd_rnd/peridynamics_ballistic_impact.html",
+    "title": "PhD Position in Peridynamics Material Models for Ballistic Impact Simulations",
     "section": "",
-    "text": "Hi! I’m Ravinder Bhattoo, assistant professor in the Department of Civil Engineering at the Indian Institute of Technology Indore. My research focus areas are machine learning-aided structural design, multiscale material modeling, physics-informed machine learning, graph neural networks, dynamic fracture and crack propagation on ballistic impact, molecular dynamics, and peridynamics. Previously, I have worked as a postdoctoral scholar in the Department of Civil and Environmental Engineering at the University of Wisconsin-Madison and as an early doc scholar in the Department of Civil Engineering at the Indian Institute of Technology Delhi. I earned my Ph.D. in Civil Engineering from the Indian Institute of Technology Delhi in January 2023, and my B. Tech. in Civil Engineering from the Indian Institute of Technology Roorkee in June 2015. My Ph.D. research focused on data-driven modeling and physics-informed machine learning for glass discovery.\n\nRecent work\n\n\n\n\nPeriDyn is a numerical simulation software designed to solve peridynamics problems. It is written in the Julia programming language, and offers a high level of flexibility and speed. link"
+    "text": "Description\nPlease visit the research page and get in touch for further discussion regarding the project.\n\n\n\nContact Person\n\n\n\n\n\nDr. Ravinder Bhattoo\n\n\nravinder @ iiti • ac • in  Assistant Professor  Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India\n\n\n         \n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "openings/intern_projects/intern.html",
+    "href": "openings/intern_projects/intern.html",
+    "title": "Internship Oppotunities",
+    "section": "",
+    "text": "Description\nPlease visit the research page and get in touch for further discussion regarding the internship project.\n\n\n\nContact Person\n\n\n\n\nHarshita Nath\nEmail: @ iiti • ac • in \n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "openings/index.html",
+    "href": "openings/index.html",
+    "title": "Openings",
+    "section": "",
+    "text": "PhD and Project Positions\n\n\n\n\n\n\n\n\n\n\nPhD Position in Generative Design of Structures using Machine Learning\n\n\n\nPhD Position\n\n\nOpen\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\nPhD Position in Peridynamics Material Models for Ballistic Impact Simulations\n\n\n\nPhD Position\n\n\nOpen\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\nPhD Position in Structural Health Monitoring\n\n\n\nPhD Position\n\n\nOpen\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\nProjects and Internship\n\n\n\n\n\n\n\n\n\n\nB.Tech & M.Tech Projects\n\n\n\nProjects\n\n\nOpen\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\n\n\n\nInternship Oppotunities\n\n\n\nInternship\n\n\nOpen\n\n\n\n\n\n\n\nApr 20, 2025\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "contactus.html",
+    "href": "contactus.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "Dr. Ravinder Bhattoo\n\n\nravinder @ iiti • ac • in  Assistant Professor  Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India\n\n\n         \n\n\nAddress\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "blogs/pdmaterialpoints/index.html",
     "href": "blogs/pdmaterialpoints/index.html",
     "title": "PDMaterialPoints",
     "section": "",
-    "text": "Documentation\nPDMaterialPoints is a Julia package that can be used to generate particle-based objects for peridynamics simulations. Peridynamics is a relatively new computational framework for simulating the behavior of materials that takes into account long-range interactions between particles or points in a material, instead of the traditional continuum-based approach. PDMaterialPoints can be used to create particle-based objects, such as 2D and 3D meshes, that can be used as input for peridynamics simulations.\nIn this article, we will provide an overview of the types and methods available in the PDMaterialPoints package."
+    "text": "PDMaterialPoints is a Julia package that can be used to generate particle-based objects for peridynamics simulations. Peridynamics is a relatively new computational framework for simulating the behavior of materials that takes into account long-range interactions between particles or points in a material, instead of the traditional continuum-based approach. PDMaterialPoints can be used to create particle-based objects, such as 2D and 3D meshes, that can be used as input for peridynamics simulations. See Documentation.\nIn this article, we will provide an overview of the types and methods available in the PDMaterialPoints package."
   },
   {
     "objectID": "blogs/pdmaterialpoints/index.html#types",
@@ -86,16 +184,23 @@
   {
     "objectID": "blogs/index.html",
     "href": "blogs/index.html",
-    "title": "Blogs",
+    "title": "Writeups",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\n\n\nReading Time\n\n\n\n\n\n\nPDMaterialPoints\n\n\n\n\n\n5 min\n\n\n\n\nPeriDyn: Peridynamics Package Written in Julia\n\n\n\n\n\n30 min\n\n\n\n\n\nNo matching items"
+    "text": "peridynamics\n\n\nsoftware\n\n\n\n\n\n\n\n\n\n30 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nperidynamics\n\n\nsoftware\n\n\n\n\n\n\n\n\n\n5 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blogs/index.html#blogs",
+    "href": "blogs/index.html#blogs",
+    "title": "Writeups",
+    "section": "",
+    "text": "peridynamics\n\n\nsoftware\n\n\n\n\n\n\n\n\n\n30 min\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nperidynamics\n\n\nsoftware\n\n\n\n\n\n\n\n\n\n5 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogs/peridyn/index.html",
     "href": "blogs/peridyn/index.html",
     "title": "PeriDyn: Peridynamics Package Written in Julia",
     "section": "",
-    "text": "Documentation\nPeriDyn is a numerical simulation software designed to solve peridynamics problems. It is written in the Julia programming language, and offers a high level of flexibility and speed. PDBenchmark is built on top of the PeriDyn package, which provides a number of predefined material models and benchmark problems. This allows users to quickly set up and run simulations, and compare their results to established benchmarks.\nPeridynamics is a nonlocal continuum theory that can describe material failure and fracture without using the traditional concepts of stress and strain. Instead, it models a material as a collection of particles that interact through pairwise forces. These forces depend on the separation between particles, and can be used to simulate a wide range of materials, including brittle and ductile solids, fluids, and granular materials."
+    "text": "PeriDyn is a numerical simulation software designed to solve peridynamics problems. It is written in the Julia programming language, and offers a high level of flexibility and speed. PDBenchmark is built on top of the PeriDyn package, which provides a number of predefined material models and benchmark problems. This allows users to quickly set up and run simulations, and compare their results to established benchmarks. See Documentation.\nPeridynamics is a nonlocal continuum theory that can describe material failure and fracture without using the traditional concepts of stress and strain. Instead, it models a material as a collection of particles that interact through pairwise forces. These forces depend on the separation between particles, and can be used to simulate a wide range of materials, including brittle and ductile solids, fluids, and granular materials."
   },
   {
     "objectID": "blogs/peridyn/index.html#sec:chap7_env",
@@ -224,11 +329,67 @@
     "text": "Peridynamics simulation with machine learned material\n# Tensile simulation with machine learned material\n# importing packages\nusing PDBenchmark\nusing PeriDyn\nusing Random\nusing BSON\nusing Flux\nRandom.seed!(42)\n# setting paramters\nconst Es = 70.0\nconst nu = 0.25 # for bond based peridynamics\nK = Es/3/(1-2nu)\nG = Es/2/(1+nu)\nconst rho = 2.2 # g/cm3\nwv = sqrt(Es/rho)\nprintln(\"Wave velocity: \", wv)\nconst cs = 0.1\nconst reso = 0.1\nconst horizon = 3.0*reso\ntime_step = 0.5 * reso / wv\nC = 18K/(pi*horizon^4)\n# define material block\ngen_mat = PDBenchmark.NameParam(:GeneralMaterial, (horizon), Dict(:max_neigh=&gt;150, :skip_bb=&gt;true))\nsquareplus(x) = 0.5*(x + sqrt(x^2 + 4))\nspc_mat = PDBenchmark.NameParam(:PairwiseNNSpecific, ([1, 10, 10, 1], [cs], [rho]), Dict(:act=&gt;squareplus))\n# define solver\nsolver = DSVelocityVerlet()\n# setup and clean output directory\nout_dir = \"MLTensileBarBBNL_\" * string(typeof(solver))\ntry\n    foreach(rm, filter(endswith(\".data\"), readdir(\"./output/\"*out_dir, join=true)))\ncatch\n    nothing\nend\n# perform simulation\ntest = PDBenchmark.TensileBar(;gen_mat=gen_mat, dt=time_step,\n                                spc_mat=spc_mat, resolution=reso, solver=solver, Steps=1000, out_dir=out_dir, fwf=10, makeplot=true, trueE=Es)\nenv, solver, solvef! = PDBenchmark.stage!(test)\nBSON.@load \"mymodel.bson\" model\nenv.material_blocks[1].specific.NNs[1, 1] = model\nsolvef!(env, solver)"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HOME",
+    "section": "",
+    "text": "Dr. Ravinder Bhattoo\n\n\nravinder @ iiti • ac • in  Assistant Professor  Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India\n\n\n         \n\nHi! I’m Ravinder Bhattoo, assistant professor in the Department of Civil Engineering at the Indian Institute of Technology Indore. My research focus areas are machine learning-aided structural design, multiscale material modeling, physics-informed machine learning, graph neural networks, dynamic fracture and crack propagation on ballistic impact, molecular dynamics, and peridynamics. Previously, I have worked as a postdoctoral scholar in the Department of Civil and Environmental Engineering at the University of Wisconsin-Madison and as an early doc scholar in the Department of Civil Engineering at the Indian Institute of Technology Delhi. I earned my Ph.D. in Civil Engineering from the Indian Institute of Technology Delhi in January 2023, and my B. Tech. in Civil Engineering from the Indian Institute of Technology Roorkee in June 2015. My Ph.D. research focused on data-driven modeling and physics-informed machine learning for glass discovery.\nResearch Updates (full list)\n\n\n\n\n\n\n\n PeriDyn is a numerical simulation software designed to solve peridynamics problems. It is written in the Julia programming language, and offers a high level of flexibility and speed. PDBenchmark is built on top of the PeriDyn package, which provides a number of predefined material models and benchmark problems. This allows users to quickly set up and run simulations, and compare their results to established benchmarks. link\n\n\n\n\n\n\n Machine Learning for Material Discovery Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple regression to advanced machine learning and optimization methods for applications in materials modeling and discovery. The book explains complex mathematical concepts in a lucid manner to ensure that readers from different materials domains are able to use these techniques successfully. A unique feature of this book is its hands-on aspect—each method presented herein is accompanied by a code that implements the method in open-source platforms such as Python. This book is thus aimed at graduate students, researchers, and engineers to enable the use of data-driven methods for understanding and accelerating the discovery of novel materials. link\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "openings/intern_projects/btp_mtech.html",
+    "href": "openings/intern_projects/btp_mtech.html",
+    "title": "B.Tech & M.Tech Projects",
+    "section": "",
+    "text": "Description\nPlease visit the research page and get in touch for further discussion regarding the B.Tech and M.Tech project.\n\n\n\nContact Person\n\n\n\n\n\nDr. Ravinder Bhattoo\n\n\nravinder @ iiti • ac • in  Assistant Professor  Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India\n\n\n         \n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "openings/phd_rnd/generative_design_of_structures.html",
+    "href": "openings/phd_rnd/generative_design_of_structures.html",
+    "title": "PhD Position in Generative Design of Structures using Machine Learning",
+    "section": "",
+    "text": "Description\nPlease visit the research page and get in touch for further discussion regarding the project.\n\n\n\nContact Person\n\n\n\n\n\nDr. Ravinder Bhattoo\n\n\nravinder @ iiti • ac • in  Assistant Professor  Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India\n\n\n         \n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "openings/phd_rnd/shm_railway_truss_bridge.html",
+    "href": "openings/phd_rnd/shm_railway_truss_bridge.html",
+    "title": "PhD Position in Structural Health Monitoring",
+    "section": "",
+    "text": "Description\nPlease visit the research page and get in touch for further discussion regarding the project.\n\n\n\nContact Person\n\n\n\n\n\nDr. Ravinder Bhattoo\n\n\nravinder @ iiti • ac • in  Assistant Professor  Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India\n\n\n         \n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/articles/top.html",
+    "href": "publications/articles/top.html",
+    "title": "HOME",
+    "section": "",
+    "text": "Our paper on 21 challenges in AI and ML in glass technology featured in American Ceramic Society’s CTT. Read the article here. A reprint of the article can be found in Glass machinery plants and accessories magazine here\nOur paper on glassy h-BN selected as the cover page in Advanced Theory and Simulations. Read the paper here\n\nYou can also find my articles on Google Scholar profile.\n\n\n\n\n\n\n\n\n\n\n\n\nAll\n\n\nSince 2020\n\n\n\n\nCitations\n\n\n701\n\n\n693\n\n\n\n\nh-index\n\n\n17\n\n\n17\n\n\n\n\ni10-index\n\n\n19\n\n\n19\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/books/mlmd.html",
+    "href": "publications/books/mlmd.html",
+    "title": "HOME",
+    "section": "",
+    "text": "Machine Learning for Material Discovery Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple regression to advanced machine learning and optimization methods for applications in materials modeling and discovery. The book explains complex mathematical concepts in a lucid manner to ensure that readers from different materials domains are able to use these techniques successfully. A unique feature of this book is its hands-on aspect—each method presented herein is accompanied by a code that implements the method in open-source platforms such as Python. This book is thus aimed at graduate students, researchers, and engineers to enable the use of data-driven methods for understanding and accelerating the discovery of novel materials. link\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Our paper on 21 challenges in AI and ML in glass technology featured in American Ceramic Society’s CTT. Read the article here. A reprint of the article can be found in Glass machinery plants and accessories magazine here\nOur paper on glassy h-BN selected as the cover page in Advanced Theory and Simulations. Read the paper here\nYou can also find my articles on Google Scholar profile."
+    "text": "Machine Learning for Material Discovery Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple regression to advanced machine learning and optimization methods for applications in materials modeling and discovery. The book explains complex mathematical concepts in a lucid manner to ensure that readers from different materials domains are able to use these techniques successfully. A unique feature of this book is its hands-on aspect—each method presented herein is accompanied by a code that implements the method in open-source platforms such as Python. This book is thus aimed at graduate students, researchers, and engineers to enable the use of data-driven methods for understanding and accelerating the discovery of novel materials. link"
+  },
+  {
+    "objectID": "publications/index.html#books",
+    "href": "publications/index.html#books",
+    "title": "Publications",
+    "section": "",
+    "text": "Machine Learning for Material Discovery Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple regression to advanced machine learning and optimization methods for applications in materials modeling and discovery. The book explains complex mathematical concepts in a lucid manner to ensure that readers from different materials domains are able to use these techniques successfully. A unique feature of this book is its hands-on aspect—each method presented herein is accompanied by a code that implements the method in open-source platforms such as Python. This book is thus aimed at graduate students, researchers, and engineers to enable the use of data-driven methods for understanding and accelerating the discovery of novel materials. link"
+  },
+  {
+    "objectID": "publications/index.html#articles",
+    "href": "publications/index.html#articles",
+    "title": "Publications",
+    "section": "Articles",
+    "text": "Articles\n\nOur paper on 21 challenges in AI and ML in glass technology featured in American Ceramic Society’s CTT. Read the article here. A reprint of the article can be found in Glass machinery plants and accessories magazine here\nOur paper on glassy h-BN selected as the cover page in Advanced Theory and Simulations. Read the paper here\n\nYou can also find my articles on Google Scholar profile.\n\n\n\n\n\n\n\n\n\n\n\n\nAll\n\n\nSince 2020\n\n\n\n\nCitations\n\n\n701\n\n\n693\n\n\n\n\nh-index\n\n\n17\n\n\n17\n\n\n\n\ni10-index\n\n\n19\n\n\n19"
   },
   {
     "objectID": "publications/index.html#journal-articles",
@@ -252,31 +413,66 @@
     "text": "Conference Papers\n\nLearning the Dynamics of Physical Systems with Hamiltonian Graph Neural Networks\nBishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop\nICLR 2023 Workshop on Physics for Machine Learning, 2023. url: https://openreview.net/forum?id=Ugl-B_at5n\nEnhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems\nBishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop\nThe Eleventh International Conference on Learning Representations, 2023. url: https://openreview.net/forum?id=ATLEl_izD87\nUnravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems\nThangamuthu, Abishek; Kumar, Gunjan; Bishnoi, Suresh; Bhattoo, Ravinder; Krishnan, N. M. Anoop; Ranu, Sayan\nThirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2022. url: https://openreview.net/forum?id=tXEe-Ew_ikh\nLearning Articulated Rigid Body Dynamics with Lagrangian Graph Neural Network\nBhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop\nAdvances in Neural Information Processing Systems, 2022. url: https://openreview.net/forum?id=nOdfIbo3A-F"
   },
   {
-    "objectID": "resources/softwares.html",
-    "href": "resources/softwares.html",
-    "title": "Softwares",
+    "objectID": "publications/index.html#conference-talks",
+    "href": "publications/index.html#conference-talks",
+    "title": "Publications",
+    "section": "Conference Talks",
+    "text": "Conference Talks\n\nLagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nLagrangian and Hamiltonian Graph Neural Networks for Robust Molecular Simulations\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nUnderstanding the Compositional Control on Electrical, Mechanical, Optical, And Physical Properties of Inorganic Glasses with Interpretable Machine Learning\nRavinder Bhattoo*, N. M. Anoop Krishnan\nXXX International Materials Research Congress (IMRC2022) and International Conference on Advanced Materials (ICAM2021), August, 2022\nCancun, Mexico\nPeriDyn: A Peridynamics Package Written in Julia Programming Language\nRavinder Bhattoo*, N. M. Anoop Krishnan\n11th European Solid Mechanics Conference, July, 2022\nNUI, Galway, Ireland\nLearning Quantum-accuracy Interatomic Potential for Silica Using Lagrangian Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\n2022 Glass and Optical Materials Division Annual Meeting, May, 2022\nHyatt Regency Baltimore, Baltimore, MD, United States\nLearning interaction laws in atomistic system using Lagrangian Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\n2022 Glass and Optical Materials Division Annual Meeting, May, 2022\nHyatt Regency Baltimore, Baltimore, MD, United States\nDecoding the Genome of Inorganic Glasses using Interpretable Machine Learning\nRavinder Bhattoo*, N. M. Anoop Krishnan\n14th Pacific Rim Conference on Ceramic and Glass Technology and GOMD 2021 Division Meeting, December, 2021\nVancouver, British Columbia, Canada (Virtual)\nMolecular Dynamics Simulation Using Graph Neural Networks\nRavinder Bhattoo*, N. M. Anoop Krishnan\nMRS Fall Meeting 2021, December, 2021\nBoston, Massachusetts, USA (Virtual)\nUnderstanding the Composition-property Relationship of Glasses Using Interpretable Machine Learning\nRavinder Bhattoo*, Suresh Bishnoi, M. Zaki, N. M. Anoop Krishnan\nMaterials Science and Technology (MS&T) 2021, October, 2021\nColumbus, Ohio, USA (Virtual)\nMachine learning to predict the elastic properties of glasses\nSourabh Singh, Suresh Bishnoi, R. Ravinder*, Hariprasad Kodamana, N. M. Anoop Krishnan\nMaterial Science and Technology (MS&T) 2019, October, 2019\nOregon Convocation Center, Portland, USA"
+  },
+  {
+    "objectID": "publications/index.html#workshops",
+    "href": "publications/index.html#workshops",
+    "title": "Publications",
+    "section": "Workshops",
+    "text": "Workshops\n\nIntroduction to Machine Learning Tools\nArtificial Intelligence Concepts and Multidisciplinary Applications in Modern Biology, September, 2019\nInternational Center for Genetic Engineering and Biotechnology, New Delhi, India\nIntroduction to Machine Learning\nMachine Learning For Engineering Applications (TEQIP Course), June, 2019\nIndian Institute of Technology Delhi, New Delhi, India\nMolecular dynamics workshop 2\nAdvanced Simulation Methods: DFT, MD and Beyond, March, 2019\nIndian Institute of Technology Delhi, New Delhi, India"
+  },
+  {
+    "objectID": "publications/index.html#posters",
+    "href": "publications/index.html#posters",
+    "title": "Publications",
+    "section": "Posters",
+    "text": "Posters\n\nDesigning Functional Glasses using Machine Learning\nR. Ravinder*, Suresh Bishnoi, Sourabh Kumar Singh, Hargun Singh, Hariprasad Kodamana, N M Anoop Krishnan\nIIT Delhi Industry Day 2019, September, 2019\nIndian Institute of Technology Delhi, New Delhi, India\nTwo-dimensional glass transition in graphene: Insights from molecular simulations\nR. Ravinder*, Rajesh Kumar, Manish Agarwal, N. M. Anoop Krishnan\nAdvanced Simulation Methods: DFT, MD and Beyond, March, 2019\nIndian Institute of Technology Delhi, New Delhi, India"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "PeriDyn [github] [Docs]\nPDMaterialPoints [github] [Docs]\nPDBenchmark [github] [Docs]"
+    "text": "Research Areas\n\n\n\n\n\n\n\n\n\n\nStructural Health Monitoring\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPeridynamics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenerative Design\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysics-informed Machine Learning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning and Glass Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMolecular Dynamics\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nResearch Projects\n\n\n\n\n\n\n\n\n\n\n\nSr. No.\nTitle\nFunding source\nAmount\nRole\nDuration\n\n\n\n\n1.\nData-driven Structural Health Monitoring for Railway Truss Bridges\nDepartment of Science & Technology\n₹ 35 L\nPI\n2024-29\n\n\n2.\nTruss Topology Optimization using Graph based Generative Machine Learning\nIIT Indore\n₹ 10 L\nPI\n2024-26\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "resources/softwares.html#peridynamics",
-    "href": "resources/softwares.html#peridynamics",
-    "title": "Softwares",
+    "objectID": "research/mlng/index.html",
+    "href": "research/mlng/index.html",
+    "title": "Machine Learning and Glass Science",
     "section": "",
-    "text": "PeriDyn [github] [Docs]\nPDMaterialPoints [github] [Docs]\nPDBenchmark [github] [Docs]"
+    "text": "Machine Learning for Material Discovery Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple regression to advanced machine learning and optimization methods for applications in materials modeling and discovery. The book explains complex mathematical concepts in a lucid manner to ensure that readers from different materials domains are able to use these techniques successfully. A unique feature of this book is its hands-on aspect—each method presented herein is accompanied by a code that implements the method in open-source platforms such as Python. This book is thus aimed at graduate students, researchers, and engineers to enable the use of data-driven methods for understanding and accelerating the discovery of novel materials. link\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "resources/softwares.html#molecular-dynamics",
-    "href": "resources/softwares.html#molecular-dynamics",
-    "title": "Softwares",
-    "section": "Molecular Dynamics",
-    "text": "Molecular Dynamics\n\nMDSimulator.jl [github]\nMDBase.jl [github]"
+    "objectID": "research/piml/index.html",
+    "href": "research/piml/index.html",
+    "title": "Physics-informed Machine Learning",
+    "section": "",
+    "text": "Back to top"
   },
   {
-    "objectID": "resources/softwares.html#miscellaneous",
-    "href": "resources/softwares.html#miscellaneous",
-    "title": "Softwares",
-    "section": "Miscellaneous",
-    "text": "Miscellaneous\n\nGlassConversionPy [github]\nMLPipeline [github]\nMixModelsPytorch [github]\nkurma [github]"
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "team/faculty/ravinder/index.html",
+    "href": "team/faculty/ravinder/index.html",
+    "title": "Dr. Ravinder Bhattoo",
+    "section": "",
+    "text": "Dr. Ravinder Bhattoo\n\n\nravinder @ iiti • ac • in  Assistant Professor  Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India\n\n\n         \n\nHi! I’m Ravinder Bhattoo, assistant professor in the Department of Civil Engineering at the Indian Institute of Technology Indore. My research focus areas are machine learning-aided structural design, multiscale material modeling, physics-informed machine learning, graph neural networks, dynamic fracture and crack propagation on ballistic impact, molecular dynamics, and peridynamics. Previously, I have worked as a postdoctoral scholar in the Department of Civil and Environmental Engineering at the University of Wisconsin-Madison and as an early doc scholar in the Department of Civil Engineering at the Indian Institute of Technology Delhi. I earned my Ph.D. in Civil Engineering from the Indian Institute of Technology Delhi in January 2023, and my B. Tech. in Civil Engineering from the Indian Institute of Technology Roorkee in June 2015. My Ph.D. research focused on data-driven modeling and physics-informed machine learning for glass discovery.\n\n\n Back to top"
+  },
+  {
+    "objectID": "team/mtech/harshita_nath/index.html",
+    "href": "team/mtech/harshita_nath/index.html",
+    "title": "Harshita Nath",
+    "section": "",
+    "text": "Department of Civil Engineering  Indian Institute of Technology Indore  Indore, India   Email: @ iiti • ac • in \n\n\n    \n\nHi! I’m Harshita Nath, master’s student in the Department of Civil Engineering at the Indian Institute of Technology Indore.\n\n\n Back to top"
   }
 ]

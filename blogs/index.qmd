@@ -1,6 +1,17 @@
 ---
-title: 'Blogs'
+title: 'Writeups'
 listing:
-  type: table
-  fields: ["title", "image", "reading-time"]
+  - id: blogs
+    type: default
+    grid-columns: 2
+    fields: ["title", "image", "reading-time", "categories", "description"]
+    categories: true
+    sort:
+      - "date"
+      - "title desc"
+    grid-item-border: true
 ---
+
+## Blogs
+::: {#blogs}
+:::

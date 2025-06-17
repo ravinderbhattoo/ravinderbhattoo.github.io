@@ -1,9 +1,8 @@
 ---
 title: 'PeriDyn: Peridynamics Package Written in Julia'
-image: "diskdamage.png"
+image: "vis_sample.png"
+categories: ["peridynamics", "software"]
 ---
-
-[Documentation](https://ravinderbhattoo.github.io/PeriDyn)
 
 PeriDyn is a numerical simulation software designed to solve
 peridynamics problems. It is written in the Julia programming language,
@@ -11,7 +10,7 @@ and offers a high level of flexibility and speed. PDBenchmark is built
 on top of the PeriDyn package, which provides a number of predefined
 material models and benchmark problems. This allows users to quickly set
 up and run simulations, and compare their results to established
-benchmarks.
+benchmarks. See [Documentation](https://ravinderbhattoo.github.io/PeriDyn).
 
 Peridynamics is a nonlocal continuum theory that can describe material
 failure and fracture without using the traditional concepts of stress

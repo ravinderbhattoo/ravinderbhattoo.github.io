@@ -1,0 +1,5 @@
+---
+title: "Physics-informed Machine Learning"
+image: "resources/piml.png"
+lindex: 4
+---

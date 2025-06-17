@@ -1,0 +1,12 @@
+/* Add hover animation for table rows */
+table tr:hover {
+    background-color: #e6f7ff;
+    transition: background-color 0.3s ease;
+  }
+
+table.citations td {
+    min-width: 100px;
+    padding: 5px;
+    border-bottom: solid 2px #ccc;
+    border-top: solid 2px #ccc;
+}

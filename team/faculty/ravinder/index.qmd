@@ -1,0 +1,10 @@
+---
+title: "Dr. Ravinder Bhattoo"
+image: ravinder.jpeg
+categories: Faculty
+description: "Assistant Professor"
+---
+
+<hr>
+
+{{< include /team/faculty/ravinder/_description.qmd >}}

@@ -1,0 +1,37 @@
+---
+title: "Structural Health Monitoring"
+image: "resources/shm.png"
+lindex: 1
+---
+
+![](./resources/shm.png)
+
+Structural Health Monitoring (SHM) is an essential aspect of infrastructure management. It involves the continuous monitoring of structures to detect any potential issues before they lead to accidents or failures. This ensures safety, reliability, and longevity of the infrastructure.
+
+<hr>
+
+### Health Monitoring of Railway Truss Bridges
+
+The research aims to modernize the evaluation of railway bridge conditions within India’s extensive network. The dynamic landscape includes bridges over a century old, alongside modern rail demands characterized by increased axle loads and speeds. The Committee emphasizes modern tech integration for revolutionary inspections, paving the way for automated real-time health monitoring, enhancing safety and maintenance. The proposal aims to leverage physics-informed machine learning and proven data-driven approaches, as demonstrated in related tasks. The overarching objective is to establish a precise framework for structural health monitoring, effectively encompassing safety, maintenance, and technological progress
+
+A damaged physical model (solid line) and a trained machine learning model (dashed line) of a truss structure.
+
+::: {#fig-shm_truss style="text-align:center" }
+```{=html}
+<video width="100%" controls autoplay>
+  <source src="./resources/box10_trained.mp4" type="video/mp4">
+</video>
+```
+:::
+
+
+
+
+
+
+
+
+
+
+
+

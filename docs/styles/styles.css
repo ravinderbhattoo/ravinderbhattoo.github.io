@@ -1,0 +1,116 @@
+/* css styles */
+
+@import "grid-item-animation.css";
+@import "tables.css";
+
+:root {
+  --bs-body-font-size: 1.0rem;
+  --bs-body-font-family: 'Roboto', sans-serif;
+  --bs-body-text-align: justify;
+}
+
+@font-face {
+  font-family: Liberty;
+  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/907368/liberty.otf") format("opentype");
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.card-title {
+  font-weight: bold
+}
+
+img.card-img {
+  object-fit: contain;
+}
+
+
+
+figure.figure {
+  display: inline-block;
+  }
+
+
+
+figure.figure {
+    display: inline-block;
+  }
+div.a-icon p a {
+  padding-left: 10px;
+}
+
+i.fa {
+  font-size: 30px;
+}
+
+a img {
+  width: 30px;
+  vertical-align: top;
+}
+
+.quarto-grid-item {
+  padding: 10px;
+}
+
+.justify{
+  text-align: justify;
+}
+
+.rboarder {
+  border: 1px solid #1F51FF;
+  padding: 5px;
+}
+
+.sign-board {
+    font-family: Liberty;
+    font-weight: 100;
+    font-size: 1.0rem;
+    letter-spacing: 0.2em;
+    flex-flow: row;
+    color: #1F51FF;
+    text-shadow: 0 0 0.8rem #1F51FF;
+    display: inline-block;
+    margin-top: -1rem;
+}
+
+.flicker {
+    animation: flicker 2s ease-in-out infinite alternate
+}
+
+@keyframes flicker {
+    0% {
+        opacity: 1;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+    5% {
+        opacity: 1;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+    5.5% {
+        opacity: 0;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+    6% {
+        opacity: 1;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+    6.5% {
+        opacity: 1;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+    7% {
+        opacity: 1;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+    8% {
+        opacity: 1;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+    50% {
+        opacity: 1;
+        transform: translate(0rem, 0.1rem) rotate(-5deg)}
+    50.5% {
+        opacity: 0;
+        transform: translate(0rem, 0.1rem) rotate(-5deg)}
+    51% {
+        opacity: 1;
+        transform: translate(0rem, 0.1rem) rotate(-5deg)}
+    100% {
+        opacity: 1;
+        transform: translate(0rem, 0rem) rotate(0deg)}
+}

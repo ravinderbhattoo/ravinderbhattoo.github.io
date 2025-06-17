@@ -1,0 +1,16 @@
+---
+title: "Internship Oppotunities"
+categories: ["Internship", "Open"]
+date: 2025-04-20
+---
+
+
+### Description
+
+Please visit the [research](/research/) page and get in touch for further discussion regarding the internship project.
+
+<hr>
+
+### Contact Person
+
+{{< include /team/mtech/harshita_nath/_c_card.qmd >}}

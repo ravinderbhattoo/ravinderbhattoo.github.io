@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Ravinder Bhattoo</title>
+<title>Research – HOME</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,15 +30,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,9 +68,70 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-research-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../styles.css">
+    const options = {
+      valueNames: ['listing-title','listing-image','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-research-listings'] = new List('listing-research-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles/styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -79,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Ravinder Bhattoo</span>
+    <span class="navbar-title">HOME</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -89,27 +152,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">About me</span></a>
+    <a class="nav-link active" href="../research/index.html" aria-current="page"> 
+<span class="menu-text">Research</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Research</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
-        <li>
-    <a class="dropdown-item" href="../research/index.html">
- <span class="dropdown-text">All</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../talks/index.html"> 
-<span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../blogs/index.html"> 
@@ -126,6 +174,18 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../team/index.html"> 
+<span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../contactus.html"> 
+<span class="menu-text">Contact Us</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../openings/index.html"> 
+<span class="menu-text"><span class="sign-board rboarder">Open<span class="flicker sign-board">ings</span></span></span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -161,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -169,20 +229,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#research-projects" id="toc-research-projects" class="nav-link active" data-scroll-target="#research-projects">Research Projects</a></li>
-  <li><a href="#research" id="toc-research" class="nav-link" data-scroll-target="#research">Research</a>
-  <ul class="collapse">
-  <li><a href="#physics-informed-machine-learning" id="toc-physics-informed-machine-learning" class="nav-link" data-scroll-target="#physics-informed-machine-learning">Physics-informed Machine Learning</a></li>
-  <li><a href="#structural-health-monitoring" id="toc-structural-health-monitoring" class="nav-link" data-scroll-target="#structural-health-monitoring">Structural Health Monitoring</a></li>
-  <li><a href="#peridynamics" id="toc-peridynamics" class="nav-link" data-scroll-target="#peridynamics">Peridynamics</a></li>
-  <li><a href="#topology-optimization" id="toc-topology-optimization" class="nav-link" data-scroll-target="#topology-optimization">Topology Optimization</a></li>
-  <li><a href="#molecular-dynamics" id="toc-molecular-dynamics" class="nav-link" data-scroll-target="#molecular-dynamics">Molecular Dynamics</a></li>
-  </ul></li>
+  <li><a href="#research-areas" id="toc-research-areas" class="nav-link active" data-scroll-target="#research-areas">Research Areas</a></li>
+  <li><a href="#research-projects" id="toc-research-projects" class="nav-link" data-scroll-target="#research-projects">Research Projects</a></li>
   </ul>
 </nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -191,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -203,55 +256,164 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="research-projects" class="level2">
-<h2 class="anchored" data-anchor-id="research-projects">Research Projects</h2>
+<section id="research-areas" class="level3">
+<h3 class="anchored" data-anchor-id="research-areas">Research Areas</h3>
+<div id="listing-research-listings" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1743595953650" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
+<a href="../research/shm/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../research/shm/resources/shm.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Structural Health Monitoring
+</h5>
+<div class="card-text listing-description">
+Structural Health Monitoring (SHM) is an essential aspect of infrastructure management. It involves the continuous monitoring of structures to detect any potential issues…
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1743595979161" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<a href="../research/peridynamics/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../blogs/peridyn/diskdamage.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Peridynamics
+</h5>
+<div class="card-text listing-description">
+Peridynamics is a nonlocal continuum theory that can describe material failure and fracture without using the traditional concepts of stress and strain. Instead, it models a…
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1743595977488" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<a href="../research/gdes/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../research/gdes/resources/gdes.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Generative Design
+</h5>
+<div class="card-text listing-description">
+The Generative Design methodology is a novel approach that leverages generative machine learning techniques to automate the process of designing complex structures. It…
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1743325019219" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../research/piml/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../research/piml/resources/piml.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Physics-informed Machine Learning
+</h5>
+<div class="card-text listing-description">
+
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1743326716447" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="../research/mlng/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-44622-1?as=webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Machine Learning and Glass Science
+</h5>
+<div class="card-text listing-description">
+<i class="fa fa-book"></i> <b>Machine Learning for Material Discovery</b> Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple…
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1744894085951" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../research/md/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../research/md/resources/md.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Molecular Dynamics
+</h5>
+<div class="card-text listing-description">
+
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="research-projects" class="level3">
+<h3 class="anchored" data-anchor-id="research-projects">Research Projects</h3>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 58%">
-<col style="width: 25%">
-<col style="width: 8%">
-<col style="width: 8%">
+<col style="width: 5%">
+<col style="width: 47%">
+<col style="width: 17%">
+<col style="width: 11%">
+<col style="width: 5%">
+<col style="width: 11%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Title</th>
+<th>Sr.&nbsp;No.</th>
+<th style="text-align: left;">Title</th>
 <th>Funding source</th>
 <th>Amount</th>
+<th>Role</th>
 <th>Duration</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Data-driven Structural Health Monitoring for Railway Truss Bridges</strong></td>
+<td>1.</td>
+<td style="text-align: left;"><strong>Data-driven Structural Health Monitoring for Railway Truss Bridges</strong></td>
 <td>Department of Science &amp; Technology</td>
 <td>₹ 35 L</td>
+<td>PI</td>
 <td>2024-29</td>
+</tr>
+<tr class="even">
+<td>2.</td>
+<td style="text-align: left;"><strong>Truss Topology Optimization using Graph based Generative Machine Learning</strong></td>
+<td>IIT Indore</td>
+<td>₹ 10 L</td>
+<td>PI</td>
+<td>2024-26</td>
 </tr>
 </tbody>
 </table>
-</section>
-<section id="research" class="level2">
-<h2 class="anchored" data-anchor-id="research">Research</h2>
-<section id="physics-informed-machine-learning" class="level3">
-<h3 class="anchored" data-anchor-id="physics-informed-machine-learning">Physics-informed Machine Learning</h3>
-</section>
-<section id="structural-health-monitoring" class="level3">
-<h3 class="anchored" data-anchor-id="structural-health-monitoring">Structural Health Monitoring</h3>
-</section>
-<section id="peridynamics" class="level3">
-<h3 class="anchored" data-anchor-id="peridynamics">Peridynamics</h3>
-</section>
-<section id="topology-optimization" class="level3">
-<h3 class="anchored" data-anchor-id="topology-optimization">Topology Optimization</h3>
-</section>
-<section id="molecular-dynamics" class="level3">
-<h3 class="anchored" data-anchor-id="molecular-dynamics">Molecular Dynamics</h3>
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -334,8 +496,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -446,7 +606,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -680,11 +839,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="../about.qmd">
-<p>About</p>
-</a>
-  </li>  
     <li class="nav-item">
     <a class="nav-link" href="../license.qmd">
 <p>License</p>

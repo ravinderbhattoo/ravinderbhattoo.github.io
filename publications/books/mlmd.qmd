@@ -1,0 +1,19 @@
+
+::: {#bookmlmd .columns}
+
+::: {.column width="30%"}
+::: {style="display:flex;justify-content:center;"}
+![](https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-44622-1?as=webp){style="max-height:300px"}
+:::
+:::
+
+
+::: {.column width="70%"}
+<i class="fa fa-book"></i> <b>Machine Learning for Material Discovery</b>
+Focusing on the fundamentals of machine learning, this book covers broad areas of data-driven modeling, ranging from simple regression to advanced machine learning and optimization methods for applications in materials modeling and discovery. The book explains complex mathematical concepts in a lucid manner to ensure that readers from different materials domains are able to use these techniques successfully. A unique feature of this book is its hands-on aspect—each method presented herein is accompanied by a code that implements the method in open-source platforms such as Python. This book is thus aimed at graduate students, researchers, and engineers to enable the use of data-driven methods for understanding and accelerating the discovery of novel materials. [link](https://link.springer.com/book/10.1007/978-3-031-44622-1)
+:::
+
+:::
+
+
+

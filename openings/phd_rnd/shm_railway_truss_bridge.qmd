@@ -1,0 +1,18 @@
+---
+title: "PhD Position in Structural Health Monitoring"
+categories: ["PhD Position", "Open"]
+date: 2025-04-20
+---
+
+
+### Description
+
+Please visit the [research](/research/shm) page and get in touch for further discussion regarding the project.
+
+
+<hr>
+
+### Contact Person
+
+{{< include /team/faculty/ravinder/_card.qmd >}}
+

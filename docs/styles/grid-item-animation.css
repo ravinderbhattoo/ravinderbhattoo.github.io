@@ -1,0 +1,14 @@
+/* Ensure grid items are styled correctly */
+.quarto-grid-item, .card-animation {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  padding: 15px;
+  background-color: #fff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.quarto-grid-item:hover, .card-animation:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}

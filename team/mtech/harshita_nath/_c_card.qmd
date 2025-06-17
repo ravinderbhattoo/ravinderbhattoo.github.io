@@ -1,0 +1,18 @@
+---
+name: "Harshita Nath"
+image: "/assets/default_female.png"
+email: ""
+---
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![]({{< meta image >}}){style="border-radius:20%"}
+:::
+
+::: {.column width="70%" style="padding-left:20px"}
+[{{< meta name >}}](/team/mtech/harshita_nath/index.qmd)
+
+Email: {{< meta email >}} &#64; iiti &#x2022; ac &#x2022; in <br>
+
+::::

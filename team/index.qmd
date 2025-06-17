@@ -1,0 +1,34 @@
+---
+title: Team
+listing:
+  - id: "faculty-listings"
+    contents: faculty
+    type: grid
+    grid-columns: 3
+    fields: ["title", "image", "description"]
+    sort: "lindex"
+    grid-item-border: true
+  - id: "mtech-listings"
+    contents: mtech
+    type: grid
+    grid-columns: 3
+    fields: ["title", "image", "description"]
+    sort: "lindex"
+    grid-item-border: true
+---
+
+### Faculty
+
+::: {#faculty-listings}
+:::
+
+<!-- ### PhD Students
+
+::: {#phd-listings}
+::: -->
+
+### Masters Students
+
+::: {#mtech-listings}
+:::
+

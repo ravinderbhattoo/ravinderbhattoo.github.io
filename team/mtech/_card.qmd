@@ -1,0 +1,23 @@
+
+:::: {.columns}
+
+::: {.column width="20%"}
+![]({{< meta image >}}){style="border-radius:20%"}
+:::
+
+::: {.column width="70%" style="padding-left:20px"}
+Department of Civil Engineering <br>
+Indian Institute of Technology Indore <br>
+Indore, India <br> <br>
+Email: {{< meta email >}} &#64; iiti &#x2022; ac &#x2022; in <br>
+
+</p>
+
+:::{ .a-icon}
+[<i class="fa fa-graduation-cap"></i>]({{< meta gs_link >}})
+[<i class="fa fa-linkedin-square"></i>]({{< meta ln_link >}})
+[<i class="fa fa-github"></i>]({{< meta gh_link >}})
+[<img src=https://orcid.org/assets/vectors/orcid.logo.icon.svg title=ORCID />]({{< meta orcid_link >}})
+[<img src=https://help.researchgate.net/hc/theming_assets/01HZPWT1CS5WRP04ZJX0DM6135 title='Research Gate' />]({{< meta rg_link>}})
+:::
+::::

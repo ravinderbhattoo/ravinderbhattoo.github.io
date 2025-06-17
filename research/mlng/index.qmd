@@ -1,0 +1,9 @@
+---
+title: "Machine Learning and Glass Science"
+image: "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-44622-1?as=webp"
+lindex: 5
+---
+
+<hr>
+
+{{< include /publications/books/mlmd.qmd >}}

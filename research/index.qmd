@@ -1,21 +1,30 @@
 ---
 title: Research
+css: styles.css
+listing:
+  id: "research-listings"
+  type: grid
+  grid-columns: 3
+  fields: ["title", "image", "categories", "description"]
+  sort: "lindex"
+  categories: true
+  grid-item-border: true
+execute:
+  echo: false
+format:
+  html:
+    page-layout: full
 ---
 
-## Research Projects
+### Research Areas
 
-| Title | Funding source | Amount | Duration|
-|-------|---|-|-| 
-| **Data-driven Structural Health Monitoring for Railway Truss Bridges** | Department of Science & Technology | ₹ 35 L | 2024-29 |
+::: {#research-listings}
+:::
 
-## Research
 
-### Physics-informed Machine Learning
+### Research Projects
 
-### Structural Health Monitoring
-
-### Peridynamics
-
-### Topology Optimization
-
-### Molecular Dynamics
+|Sr. No.| Title | Funding source | Amount | Role| Duration|
+|-|:-------|---|--|-|--|
+|1.| **Data-driven Structural Health Monitoring for Railway Truss Bridges** | Department of Science & Technology | ₹ 35 L | PI | 2024-29 |
+|2.| **Truss Topology Optimization using Graph based Generative Machine Learning**|IIT Indore|₹ 10 L| PI |2024-26|

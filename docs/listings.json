@@ -1,9 +1,38 @@
 [
   {
+    "listing": "/team/index.html",
+    "items": [
+      "/team/faculty/ravinder/index.html",
+      "/team/mtech/harshita_nath/index.html",
+      "/team/mtech/ravi_sharma/index.html"
+    ]
+  },
+  {
+    "listing": "/openings/index.html",
+    "items": [
+      "/openings/phd_rnd/generative_design_of_structures.html",
+      "/openings/phd_rnd/peridynamics_ballistic_impact.html",
+      "/openings/phd_rnd/shm_railway_truss_bridge.html",
+      "/openings/intern_projects/btp_mtech.html",
+      "/openings/intern_projects/intern.html"
+    ]
+  },
+  {
     "listing": "/blogs/index.html",
     "items": [
-      "/blogs/pdmaterialpoints/index.html",
-      "/blogs/peridyn/index.html"
+      "/blogs/peridyn/index.html",
+      "/blogs/pdmaterialpoints/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/shm/index.html",
+      "/research/peridynamics/index.html",
+      "/research/gdes/index.html",
+      "/research/piml/index.html",
+      "/research/mlng/index.html",
+      "/research/md/index.html"
     ]
   }
 ]

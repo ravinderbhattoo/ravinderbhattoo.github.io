@@ -1,0 +1,12 @@
+---
+title: "Generative Design"
+image: "resources/gdes.png"
+lindex: 3
+---
+
+![](./resources/gdes.png)
+
+
+The Generative Design methodology is a novel approach that leverages generative machine learning techniques to automate the process of designing complex structures. It methodology directly addresses the limitations of traditional design approaches by automating the exploration of a vast design space, optimizing multiple parameters simultaneously. By combining the power of computational tools, real-time analysis, distributed computing and artificial intelligence, this methodology can lead to the development of more efficient, innovative, and high-performance designs in fields of aerospace, structural engineering, and materials design.
+
+<hr>

@@ -1,0 +1,131 @@
+
+## Journal Articles
+1. __Understanding the compositional control on electrical, mechanical, optical, and physical properties of inorganic glasses with interpretable machine learning__
+\
+Bhattoo, Ravinder; Bishnoi, Suresh; Zaki, Mohd; Krishnan, N. M. Anoop;
+\
+Acta Materialia, 2023. doi: 10.1016/j.actamat.2022.118439
+
+2. __Learning the dynamics of particle-based systems with Lagrangian graph neural networks__
+\
+Bhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop;
+\
+Machine Learning: Science and Technology, 2023. doi: 10.1088/2632-2153/acb03e
+
+3. __Interpreting the optical properties of oxide glasses with machine learning and Shapely additive explanations__
+\
+Zaki, Mohd; Venugopal, Vineeth; Bhattoo, Ravinder; Bishnoi, Suresh; Singh, Sourabh Kumar; Allu, Amarnath R.; Jayadeva; Krishnan, N. M. Anoop;
+\
+Journal of the American Ceramic Society, 2022. doi: 10.1111/jace.18345
+
+4. __Scalable Gaussian processes for predicting the optical, physical, thermal, and mechanical properties of inorganic glasses with large datasets__
+\
+Bishnoi, Suresh; Ravinder, R.; Grover, Hargun Singh; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Materials Advances, 2021. doi: 10.1039/D0MA00764A
+
+5. __Artificial intelligence and machine learning in glass science and technology: 21 challenges for the 21st century__
+\
+Ravinder; Venugopal, Vineeth; Bishnoi, Suresh; Singh, Sourabh; Zaki, Mohd; Grover, Hargun Singh; Bauchy, Mathieu; Agarwal, Manish; Krishnan, N. M. Anoop
+\
+International Journal of Applied Glass Science, 2021. doi: 10.1111/ijag.15881
+
+6. __Irradiation-induced brittle-to-ductile transition in α-quartz__
+\
+Ravinder, R.; Kumar, Abhishek; Kumar, Rajesh; Vangla, Prashanth; Krishnan, N. M. Anoop
+\
+Journal of the American Ceramic Society, 2020. doi: 10.1111/jace.16951
+
+7. __Glass Transition and Crystallization in Hexagonal Boron Nitride: Crucial Role of Orientational Order__
+\
+Ravinder, R.; Garg, Prateet; Krishnan, N. M. Anoop
+\
+Advanced Theory and Simulations, 2020. doi: 10.1002/adts.201900174
+
+8. __Deep learning aided rational design of oxide glasses__
+\
+Ravinder, R.; Sridhara, Karthikeya H.; Bishnoi, Suresh; Grover, Hargun Singh; Bauchy, Mathieu; Jayadeva; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Materials Horizons, 2020. doi: 10.1039/D0MH00162G
+
+9. __Cooling rate effects on the structure of 45S5 bioglass: Insights from experiments and simulations__
+\
+Bhaskar, Pratik; Kumar, Rajesh; Maurya, Yashasvi; Ravinder, R.; Allu, Amarnath R.; Das, Sumanta; Gosvami, Nitya Nand; Youngman, Randall E.; Bødker, Mikkel S.; Mascaraque, Nerea; Smedskjaer, Morten M.; Bauchy, Mathieu; Krishnan, N. M. Anoop
+\
+Journal of Non-Crystalline Solids, 2020. doi: 10.1016/j.jnoncrysol.2020.119952
+
+10. __An adaptive, interacting, cluster-based model for predicting the transmission dynamics of COVID-19__
+\
+Ravinder, R.; Singh, Sourabh; Bishnoi, Suresh; Jan, Amreen; Sharma, Amit; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Heliyon, 2020. doi: 10.1016/j.heliyon.2020.e05722
+
+11. __A Peridynamics-Based Micromechanical Modeling Approach for Random Heterogeneous Structural Materials__
+\
+Nayak, Sumeru; Ravinder, R.; Krishnan, N. M. Anoop; Das, Sumanta
+\
+Materials, 2020. doi: 10.3390/ma13061298
+
+12. __Redox Sensitive Self-Assembling Dipeptide for Sustained Intracellular Drug Delivery__
+\
+Dhawan, Sameer; Ghosh, Sukanya; Ravinder, R.; Bais, Sachendra S.; Basak, Soumen; Krishnan, N. M. Anoop; Agarwal, Manish; Banerjee, Manidipa; Haridas, V.
+\
+Bioconjugate Chemistry, 2019. doi: 10.1021/acs.bioconjchem.9b00532
+
+13. __Predicting Young’s modulus of oxide glasses with sparse datasets using machine learning__
+\
+Bishnoi, Suresh; Singh, Sourabh; Ravinder, R.; Bauchy, Mathieu; Gosvami, Nitya Nand; Kodamana, Hariprasad; Krishnan, N. M. Anoop
+\
+Journal of Non-Crystalline Solids, 2019. doi: 10.1016/j.jnoncrysol.2019.119643
+
+14. __Glass Fracture Upon Ballistic Impact: New Insights From Peridynamics Simulations__
+\
+Rivera, Jared; Berjikian, Jonathan; Ravinder, R.; Kodamana, Hariprasad; Das, Sumanta; Bhatnagar, Naresh; Bauchy, Mathieu; Krishnan, N. M. Anoop
+\
+Frontiers in Materials, 2019. doi: 10.3389/fmats.2019.00239
+
+15. __Evidence of a two-dimensional glass transition in graphene: Insights from molecular simulations__
+\
+Ravinder, R.; Kumar, Rajesh; Agarwal, Manish; Krishnan, N. M. Anoop
+\
+Scientific Reports, 2019. doi: 10.1038/s41598-019-41231-z
+
+16. __Density–stiffness scaling in minerals upon disordering: Irradiation vs. vitrification__
+\
+Krishnan, N. M. Anoop; Ravinder, R.; Kumar, Rajesh; Le Pape, Yann; Sant, Gaurav; Bauchy, Mathieu
+\
+Acta Materialia, 2019. doi: 10.1016/j.actamat.2019.01.015
+
+## Preprints
+
+1. __Lagrangian Neural Network with Differentiable Symmetries and Relational Inductive Bias__
+\
+Bhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+Preprint, 2021. url: http://arxiv.org/abs/2110.03266
+
+## Conference Papers
+1. __Learning the Dynamics of Physical Systems with Hamiltonian Graph Neural Networks__
+\
+Bishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+ICLR 2023 Workshop on Physics for Machine Learning, 2023. url: https://openreview.net/forum?id=Ugl-B_at5n
+
+2. __Enhancing the Inductive Biases of Graph Neural ODE for Modeling Physical Systems__
+\
+Bishnoi, Suresh; Bhattoo, Ravinder; Jayadeva, Jayadeva; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+The Eleventh International Conference on Learning Representations, 2023. url: https://openreview.net/forum?id=ATLEl_izD87
+
+3. __Unravelling the Performance of Physics-informed Graph Neural Networks for Dynamical Systems__
+\
+Thangamuthu, Abishek; Kumar, Gunjan; Bishnoi, Suresh; Bhattoo, Ravinder; Krishnan, N. M. Anoop; Ranu, Sayan
+\
+Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track, 2022. url: https://openreview.net/forum?id=tXEe-Ew_ikh
+
+4. __Learning Articulated Rigid Body Dynamics with Lagrangian Graph Neural Network__
+\
+Bhattoo, Ravinder; Ranu, Sayan; Krishnan, N. M. Anoop
+\
+Advances in Neural Information Processing Systems, 2022. url: https://openreview.net/forum?id=nOdfIbo3A-F
+

@@ -1,0 +1,18 @@
+---
+title: "Harshita Nath"
+image: "/assets/default_female.png"
+categories: "Master of Technology"
+description: "Master's Student"
+email: ""
+gs_link: ""
+ln_link: ""
+gh_link: ""
+orcid_link: ""
+rg_link: ""
+---
+
+<hr>
+
+{{< include /team/mtech/_card.qmd >}}
+
+{{< include /team/mtech/_description.qmd >}}

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Blogs – Ravinder Bhattoo</title>
+<title>Writeups – HOME</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-ddd961a2510921635943dfbbd19534c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,20 +71,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-blogs .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-image','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-image','listing-reading-time','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-blogs'] = new List('listing-blogs', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -128,7 +128,9 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles/styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900">
 </head>
 
 <body class="nav-fixed">
@@ -139,7 +141,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Ravinder Bhattoo</span>
+    <span class="navbar-title">HOME</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -149,27 +151,12 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">About me</span></a>
+    <a class="nav-link" href="../research/index.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Research</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
-        <li>
-    <a class="dropdown-item" href="../research/index.html">
- <span class="dropdown-text">All</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../talks/index.html"> 
-<span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../blogs/index.html" aria-current="page"> 
@@ -186,6 +173,18 @@ window.Quarto = {
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../team/index.html"> 
+<span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../contactus.html"> 
+<span class="menu-text">Contact Us</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../openings/index.html"> 
+<span class="menu-text"><span class="sign-board rboarder">Open<span class="flicker sign-board">ings</span></span></span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -224,15 +223,21 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#blogs" id="toc-blogs" class="nav-link active" data-scroll-target="#blogs">Blogs</a></li>
+  </ul>
+</nav>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cGVyaWR5bmFtaWNz">peridynamics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="c29mdHdhcmU=">software <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blogs</h1>
+<h1 class="title">Writeups</h1>
 </div>
 
 
@@ -249,69 +254,87 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<section id="blogs" class="level2">
+<h2 class="anchored" data-anchor-id="blogs">Blogs</h2>
+<div id="listing-blogs" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="cGVyaWR5bmFtaWNzJTJDc29mdHdhcmU=" data-listing-file-modified-sort="1744720603865" data-listing-reading-time-sort="30" data-listing-word-count-sort="5805">
+<div class="thumbnail">
+<p><a href="../blogs/peridyn/index.html" class="no-external"></a></p><a href="../blogs/peridyn/index.html" class="no-external">
+<p><img loading="lazy" src="../blogs/peridyn/vis_sample.png" class="thumbnail-image"></p>
+</a><p><a href="../blogs/peridyn/index.html" class="no-external"></a></p>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-</th>
-<th>
-Reading Time
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1727078272995" data-listing-reading-time-sort="5" data-listing-word-count-sort="979" data-listing-title-sort="PDMaterialPoints" data-listing-filename-sort="index.qmd">
-<td>
-<a href="../blogs/pdmaterialpoints/index.html" class="title listing-title">PDMaterialPoints</a>
-</td>
-<td>
-<span class="listing-image"><img loading="lazy" src="../blogs/pdmaterialpoints/pdmaterialpoints.png" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-reading-time">5 min</span>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1727078281760" data-listing-reading-time-sort="30" data-listing-word-count-sort="5803" data-listing-title-sort="PeriDyn: Peridynamics Package Written in Julia" data-listing-filename-sort="index.qmd">
-<td>
-<a href="../blogs/peridyn/index.html" class="title listing-title">PeriDyn: Peridynamics Package Written in Julia</a>
-</td>
-<td>
-<span class="listing-image"><img loading="lazy" src="../blogs/peridyn/diskdamage.png" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-reading-time">30 min</span>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blogs/peridyn/index.html" class="no-external">PeriDyn: Peridynamics Package Written in Julia</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blogs/peridyn/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('cGVyaWR5bmFtaWNz'); return false;">
+peridynamics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c29mdHdhcmU='); return false;">
+software
+</div>
+</div>
+<div class="listing-description">
+<a href="../blogs/peridyn/index.html" class="no-external">PeriDyn is a numerical simulation software designed to solve peridynamics problems. It is written in the Julia programming language, and offers a high level of flexibility…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../blogs/peridyn/index.html" class="no-external"></a></p><a href="../blogs/peridyn/index.html" class="no-external">
+<div class="listing-reading-time">
+30 min
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="cGVyaWR5bmFtaWNzJTJDc29mdHdhcmU=" data-listing-file-modified-sort="1744720598798" data-listing-reading-time-sort="5" data-listing-word-count-sort="981">
+<div class="thumbnail">
+<p><a href="../blogs/pdmaterialpoints/index.html" class="no-external"></a></p><a href="../blogs/pdmaterialpoints/index.html" class="no-external">
+<p><img loading="lazy" src="../blogs/pdmaterialpoints/pdmaterialpoints.png" class="thumbnail-image"></p>
+</a><p><a href="../blogs/pdmaterialpoints/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../blogs/pdmaterialpoints/index.html" class="no-external">PDMaterialPoints</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../blogs/pdmaterialpoints/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('cGVyaWR5bmFtaWNz'); return false;">
+peridynamics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c29mdHdhcmU='); return false;">
+software
+</div>
+</div>
+<div class="listing-description">
+<a href="../blogs/pdmaterialpoints/index.html" class="no-external">PDMaterialPoints is a Julia package that can be used to generate particle-based objects for peridynamics simulations. Peridynamics is a relatively new computational…</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../blogs/pdmaterialpoints/index.html" class="no-external"></a></p><a href="../blogs/pdmaterialpoints/index.html" class="no-external">
+<div class="listing-reading-time">
+5 min
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -394,8 +417,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -506,7 +527,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -740,11 +760,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
-    <li class="nav-item">
-    <a class="nav-link" href="../about.qmd">
-<p>About</p>
-</a>
-  </li>  
     <li class="nav-item">
     <a class="nav-link" href="../license.qmd">
 <p>License</p>

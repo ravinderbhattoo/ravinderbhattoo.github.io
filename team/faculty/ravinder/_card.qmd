@@ -1,0 +1,29 @@
+:::: {.columns}
+
+::: {.column width="20%"}
+![](/team/faculty/ravinder/ravinder.jpeg){style="border-radius:20%"}
+:::
+
+::: {.column width="70%" style="padding-left:20px"}
+<h3>Dr. Ravinder Bhattoo</h3>
+<p>
+ravinder &#64; iiti &#x2022; ac &#x2022; in <br>
+Assistant Professor <br>
+Department of Civil Engineering <br>
+Indian Institute of Technology Indore <br>
+Indore, India
+</p>
+
+:::{ .a-icon}
+<a href="https://scholar.google.com/citations?user=lPTdGRMAAAAJ&hl=en">
+<i class="fa fa-graduation-cap"></i></a>
+<a href="https://www.linkedin.com/in/ravinderbhattoo">
+<i class="fa fa-linkedin-square"></i></a>
+<a href="https://github.com/ravinderbhattoo/">
+<i class="fa fa-github"></i></a>
+<a href="https://orcid.org/0000-0003-0323-9108">
+<img src=https://orcid.org/assets/vectors/orcid.logo.icon.svg title=ORCID /></a>
+<a href="https://www.researchgate.net/profile/Ravinder_Bhattoo?ev=hdr_xprf">
+<img src=https://help.researchgate.net/hc/theming_assets/01HZPWT1CS5WRP04ZJX0DM6135 title='Research Gate' /></a>
+:::
+::::

@@ -3,23 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Ravinder Bhattoo"
+  title: "HOME"
+  back-to-top-navigation: true
+
+  # sidebar:
+  #   contents:
+  #     - href: openings/index.qmd
+  #       text: "<span class='sign-board rboarder'>Open<span class='flicker sign-board'>ings</span></span>"
 
   navbar:
     left:
-      - href: index.qmd
-        text: About me
-
       - text: Research
-        menu:
-          - text: All
-            href: research/index.qmd
+        href: research/index.qmd
 
       - href: publications/index.qmd
         text: Publications
-
-      - href: talks/index.qmd
-        text: Talks
 
       - href: blogs/index.qmd
         text: Blogs
@@ -28,7 +26,16 @@ website:
         menu:
         - text: Softwares
           href: resources/softwares.qmd
-            
+
+      - href: team/index.qmd
+        text: Team
+
+      - href: contactus.qmd
+        text: Contact Us
+
+      - href: openings/index.qmd
+        text: "<span class='sign-board rboarder'>Open<span class='flicker sign-board'>ings</span></span>"
+
     right:
       - icon: "google scholar"
         href: https://scholar.google.com/citations?user=lPTdGRMAAAAJ&hl=en
@@ -43,14 +50,12 @@ website:
         text: "<img width=20 src=https://help.researchgate.net/hc/theming_assets/01HZPWT1CS5WRP04ZJX0DM6135 title='Research Gate' />"
         href: https://www.researchgate.net/profile/Ravinder_Bhattoo?ev=hdr_xprf
 
-  # announcement: 
-  #   content: "**New** - this is an announcement" 
-  #   position: below-navbar 
+  # announcement:
+  #   content: "**New** - this is an announcement"
+  #   position: below-navbar
 
   page-footer:
-    center: 
-      - text: "About"
-        href: about.qmd
+    center:
       - text: "License"
         href: license.qmd
       - text: "Trademark"
@@ -59,7 +64,11 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: [
+          "styles/styles.css",
+          "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+          "http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900italic,900",
+          ]
     toc: true
 
 

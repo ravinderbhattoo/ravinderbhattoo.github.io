@@ -1,0 +1,16 @@
+---
+title: "B.Tech & M.Tech Projects"
+categories: ["Projects", "Open"]
+date: 2025-04-20
+---
+
+### Description
+
+Please visit the [research](/research/) page and get in touch for further discussion regarding the B.Tech and M.Tech project.
+
+<hr>
+
+### Contact Person
+
+{{< include /team/faculty/ravinder/_card.qmd >}}
+
