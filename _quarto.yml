@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "HOME"
+  # title: "HOME"
   back-to-top-navigation: true
 
   # sidebar:
@@ -13,6 +13,9 @@ website:
 
   navbar:
     left:
+      - text: HOME
+        href: home.html
+
       - text: Research
         href: research/index.qmd
 
